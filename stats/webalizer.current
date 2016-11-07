@@ -1,0 +1,3250 @@
+# Webalizer V2.21-02 Incremental Data - 10/20/2016 18:50:46
+2016 10 20 18 50 46
+28307 12650 2 1171 386 5 181307996 4904 43 0
+2 443 3523 12 20
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3497 2307 38730208 1 1096 5
+12043 4955 72383761 1 1962 18
+3333 1386 17234318 1 546 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+70 70 742473 1 3 1
+4178 2037 28631427 1 682 7
+0 0 0 0 0 0
+5186 1895 23585809 2 615 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+131 89 1279061 42
+697 329 4578268 123
+952 521 7432035 174
+3554 1904 27190810 653
+1444 370 5849710 240
+135 129 1767326 23
+2794 1072 13019788 384
+932 433 6230386 148
+1257 370 5043034 173
+453 175 2395980 135
+3632 1424 29420033 795
+7712 3153 38429623 970
+4552 2631 36119993 983
+62 50 2551949 61
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+12650
+0
+0
+0
+0
+0
+1
+0
+0
+884
+34
+14654
+0
+0
+0
+0
+0
+20
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+39
+0
+0
+0
+0
+0
+# -urls- 
+/sites/all/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.js
+0 38 128 31580 0 0
+/js/admin_menu/cache/98e67e78a532a25f467bf93468c36ea7
+0 1 16035760 4274 0 0
+/js/admin_menu/cache/ca19d960dda27f04e6a65c02dea903ce
+0 1 0 3813 0 0
+/modules/block/block.js
+0 11 16078640 68475 0 0
+/sites/all/modules/ckeditor/images/buttons/format.png
+1 1 0 1204 0 0
+/admin/structure/views/view/clienti/edit/page
+0 2 0 78262 1 0
+/admin/structure/types/manage/cliente/fields/field_cf_p_iva
+0 1 0 18955 0 0
+/js/admin_menu/cache/eedbea4a236ee92f42a08f7d5fdd64fb
+0 20 16489632 9608 0 0
+/themes/seven/reset.css
+0 106 0 212184 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente2/field-settings
+0 4 0 47092 0 0
+/references-dialog/redirect/12/node
+0 1 0 5298 0 0
+/sites/all/themes/adminimal_theme/css/images/module-filter-sprite.svg
+0 3 0 18642 0 0
+/sites/all/modules/module_filter/js/dynamic_position.js
+0 66 0 105040 0 0
+/sites/default/files/css/css_nqBoXVjbk47xTT1KO10Y1mi3YOKG0-_lktw3GDNto0c.css
+0 2 0 7368 0 0
+/admin/structure/views/ajax/add-item/preventivi/page/filter
+0 4 0 194985 0 0
+/admin/structure/menu/item/15/edit
+0 1 72057594037927936 27381 0 0
+/sites/all/themes/adminimal_theme/css/images/config/development-small.png
+1 1 3328210917869551872 1230 0 0
+/sites/all/modules/views/js/views-admin.js
+0 6 3689061833566662192 226668 0 0
+/core/themes/bartik/css/components/messages.css
+0 1 16058432 243 0 0
+/sites/all/themes/adminimal_theme/css/images/config/gears-medium.png
+1 1 0 2412 0 0
+/js/admin_menu/cache/9b9ab7289ccd821aa5510b8f034749c9
+0 1 0 4309 0 0
+/field-collection/field-articolo/add/node/27
+0 4 0 47753 0 0
+/admin/config/search/metatag
+0 1 0 58733 0 0
+/field-collection/field-articolo/add/node/29
+0 2 0 22614 0 0
+/
+0 162 0 1405921 11 6
+/js/admin_menu/cache/561af551c033894c5ddf63ca2b83cd9c
+0 1 0 3775 0 0
+/sites/default/files/js/js_NgVTyVITOOfXoIttMX7Mcn_hD-3Sxv9sBEUFrMMH95s.js
+0 1 0 106652 0 0
+/core/themes/classy/css/components/tabs.css
+0 1 0 470 0 0
+/sites/default/files/js/js_vvCHeobi15fnai9hCKRg0PN2H6YI3KHVhD8AgFTUYe4.js
+0 1 0 38464 0 0
+/core/themes/seven/css/components/help.css
+0 1 0 90 0 0
+/admin/structure/field-collections/field-articolo/fields/field_codice
+0 3 0 55656 0 0
+/js/admin_menu/cache/c7b4e8a287e6e56971ca8e521c0646bd
+0 1 0 3273 0 0
+/update.php
+0 4 0 18876 0 0
+/modules/contextual/images/gear-select.png
+1 14 0 1012 0 0
+/sites/all/modules/ckeditor/images/buttons/pastetext.png
+1 1 0 750 0 0
+/sites/all/modules/wysiwyg/plugins/break/break.css
+0 1 0 206 0 0
+/sites/default/files/adminimal-custom.css
+0 428 0 47223 0 0
+/admin/config/content/ckeditor/edit/Full
+0 7 0 418631 0 0
+/js/admin_menu/cache/f58e176876885535f41a8e69553aabb9
+0 1 0 2809 0 0
+/js/admin_menu/cache/45b0dcb3d8ee2b7d58fe7588b260f7b1
+0 1 0 3314 0 0
+/misc/vertical-tabs.js
+0 55 0 75972 0 0
+/js/admin_menu/cache/96ed4e826ce2e36f07643702ce78ab1d
+0 1 0 3315 0 0
+/sites/default/files/css/css_yGlAbu0ZFVjaz9XUKPcT1XA1-I9TMccL4PLmSR_A2uM.css
+0 2 0 24984 0 0
+/sites/all/modules/field_permissions/field_permissions.admin.css
+0 1 0 1703 0 0
+/sites/default/files/js/js_j_vvtarxS9Ew4-o3LWRV5nGs6fRmA0RmVj2jtGAHIfg.js
+0 1 0 97010 0 0
+/sites/all/modules/ckeditor/images/buttons/image.png
+1 1 0 756 0 0
+/js/admin_menu/cache/e20686eb82dc1538a89ba0cc456534d3
+0 1 0 4641 0 0
+/sites/all/modules/adminimal_admin_menu/images/circledown.svg
+0 3 0 991 0 0
+/admin/structure/types/manage/preventivo/fields/field_iva/widget-type
+0 3 0 39630 0 0
+/references-dialog/redirect/35/node
+0 1 16482816 7485 0 0
+/modules/file/file.css
+0 1 0 572 0 0
+/misc/drupal.js
+0 589 0 2937196 0 0
+/core/themes/stable/css/system/components/hidden.module.css
+0 1 0 1359 0 0
+/admin/structure/types/manage/preventivo
+0 28 0 7404139 0 0
+/print/preventivo/francesco-dattolo-20102016-1476976327
+0 1 16489776 8013 0 0
+/admin/config/regional/translate
+0 1 0 24438 0 0
+/sites/default/files/js/js_R43R8fyDRBIzF9t0rqStsyDjsDWRDTvRMYZZhWFPHtA.js
+0 1 0 98345 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale
+0 17 0 500216 0 0
+/sites/all/modules/token_insert/token_insert_ckeditor/plugins/token_insert_ckeditor/images/insert.png
+1 2 0 1286 0 0
+/admin
+0 1 0 8900 0 0
+/sites/all/themes/adminimal_theme/css/images/config/pen-small.png
+1 1 0 1298 0 0
+/admin/structure/types/manage/preventivo/fields/field_total
+0 62 0 1889110 2 0
+/preventivo/francesco-dattolo10122016-1909
+0 1 0 18531 0 0
+/js/admin_menu/cache/9d5e748465d3526cf7c017034d80233f
+0 1 0 4645 0 0
+/preventivo/michele-scamarra-14102016-1476432859
+0 11 0 150478 0 0
+/js/admin_menu/cache/c7c47c24fc03832d2970ec54c622ad35
+0 2 0 3315 0 0
+/sites/default/files/css/css_TyWmkjOz1ibacRHDWvqqcAMUSeDjiTzBCeaxjnhYLzM.css
+0 10 0 10402 0 0
+/user/password
+0 1 0 8775 0 0
+/admin/structure/types/manage/cliente/fields/field_ragione_sociale/field-settings
+0 1 0 11824 0 0
+/core/modules/ckeditor/css/ckeditor-iframe.css
+0 1 0 462 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale_iva
+0 12 0 351030 0 0
+/sites/all/modules/ckeditor/images/buttons/imagebutton.png
+1 1 0 680 0 0
+/core/themes/stable/images/core/icons/5181c6/chevron-disc-down.svg
+0 1 0 416 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente2
+0 3 0 53711 0 0
+/preventivo/francesco-dattolo-20102016-1476976327
+0 61 16487568 1253070 0 0
+/admin/config/regional/translate/import
+0 1 0 18970 0 0
+/js/admin_menu/cache/05d9263fafb15b81cb5b6e846d4ffe37
+0 3 0 3862 0 0
+/admin/people/permissions/roles
+0 9 0 125045 0 0
+/admin/config/regional/currency_locale_pattern/list/it_IT/edit
+0 1 0 27985 0 0
+/admin/structure/views/ajax/display/preventivi/page/style_plugin
+0 7 0 130390 0 0
+/core/themes/classy/css/components/collapse-processed.css
+0 1 0 827 0 0
+/sites/all/themes/adminimal_theme/css/images/status.svg
+0 110 0 20208 0 0
+/misc/tabledrag.js
+0 109 0 3898224 0 0
+/admin/structure/views/ajax/config-item/preventivicliente/block_1/argument/field_cliente_target_id
+0 24 0 1164592 0 0
+/js/admin_menu/cache/01b5815332705f28b46a363a6212c454
+0 1 0 4623 0 0
+/preventivo/pippo-franco-18102016-1476797402
+0 2 0 30042 0 0
+/admin/structure/field-collections/field-articolo/fields/field_prezzo/field-settings
+0 5 80 56837 0 0
+/core/misc/icons/ee0000/required.svg
+0 9 0 513 0 0
+/core/modules/user/user.js
+0 1 0 7491 0 0
+/js/admin_menu/cache/1dc80d36bc4ee67794314222e3a17849
+0 1 0 4553 0 0
+/sites/all/modules/ckeditor/images/buttons/print.png
+1 1 0 765 0 0
+/admin/structure/menu/manage/user-menu/edit
+0 1 0 13231 0 0
+/admin/structure/views/ajax/display/preventivicliente/block_1/display_title
+0 2 0 32375 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-icons_ffffff_256x240.png
+1 1 0 4369 0 0
+/sites/all/modules/views/js/base.js
+0 7 0 21609 0 0
+/core/themes/stable/css/system/system.admin.css
+0 1 0 8378 0 0
+/sites/all/themes/adminimal_theme/screenshot.png
+1 3 0 30777 0 0
+/sites/all/themes/adminimal_theme/images/small-bullet.png
+1 18 0 5904 0 0
+/misc/ui/jquery.ui.dialog.css
+0 112 0 124033 0 0
+/sites/all/themes/adminimal_theme/css/images/config/development-medium.png
+1 1 0 1651 0 0
+/sites/default/files/css/css_w_mWhMmhjee50wWZhOi8MXA5MgKsvV5z8nx96U3xhTg.css
+0 2 0 9666 0 0
+/sites/default/files/css/css_u_ZmPDy5OEbI6gxDdbiZseqpUdzA3DJf5fFubnwzgE4.css
+0 1 0 13569 0 0
+/core/misc/icons/73b355/check.svg
+0 1 0 334 0 0
+/misc/draggable.png
+1 33 0 2948 0 0
+/admin/config/user-interface/print/pdf
+0 10 0 879496 0 0
+/node/add/page
+0 1 0 28446 0 0
+/modules/field/theme/field.css
+0 584 0 90200 0 0
+/admin/structure/views/view/preventivicliente/edit
+0 14 0 1213250 1 1
+/sites/all/modules/module_filter/css/modules.css
+0 66 0 70980 0 0
+/sites/all/modules/admin_menu/images/arrow.png
+1 1 0 183 0 0
+/admin/structure/types/manage/cliente/fields/field_telfono
+0 4 0 79097 0 0
+/js/admin_menu/cache/1e9cdb004d8bde3b1b76af167349210b
+0 1 0 3294 0 0
+/modules/admin_toolbar/admin_toolbar_tools/misc/icons/ffffff/d8-item.svg
+0 9 0 1499 0 0
+/sites/all/themes/adminimal_theme/skins/default/default.js
+0 268 0 0 0 0
+/users/operatore
+0 2 0 19065 0 0
+/admin/structure/views/view/preventivicliente/preview/block_1/ajax
+0 15 0 101978 0 0
+/admin/structure/types/manage/cliente/fields/field_provincia
+0 1 0 18808 0 0
+/preventivo/francesco-dattolo-10132016-1541
+0 2 0 32521 0 0
+/preventivo/francesco-dattolo-10132016-1542
+0 2 0 34770 0 1
+/sites/all/modules/field_collection/field_collection.theme.css
+0 244 0 64713 0 0
+/misc/ui/jquery.ui.position.min.js
+0 40 0 43356 0 0
+/modules/overlay/overlay-parent.js
+0 1 0 38424 0 0
+/preventivo/francesco-dattolo-10132016-1308
+0 20 0 254253 0 1
+/user/19/edit
+0 5 0 281526 0 0
+/field-collection/field-articolo/2/delete
+0 1 0 10877 0 0
+/admin/structure/types/manage/cliente/fields/body/delete
+0 1 0 9047 0 0
+/sites/all/themes/adminimal_theme/css/images/config/system-medium.png
+1 2 0 3628 0 0
+/js/admin_menu/cache/a2441882077491841b2e3438aa108f8d
+0 2 0 3157 0 0
+/admin/config/search/path/patterns
+0 6 0 88630 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale/field-settings
+0 4 16485424 98466 0 0
+/admin/config/people/accounts
+0 2 0 71913 0 0
+/sites/all/themes/adminimal_theme/css/images/config/media-small.png
+1 1 0 1386 0 0
+/references-dialog/redirect/36/node
+0 1 16483328 7498 0 0
+/core/themes/stable/images/core/icons/ffffff/hamburger.svg
+0 9 0 510 0 0
+/core/themes/seven/css/components/modules-page.css
+0 1 0 992 0 0
+/sites/default/files/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css
+0 1 0 6535 0 0
+/js/admin_menu/cache/17eb492b88886a416a4a57f733af61d8
+0 1 0 4321 0 0
+/admin/structure/types/manage/cliente/fields/add-field
+0 2 0 116804 0 0
+/node/14/edit
+0 1 0 29635 0 0
+/core/themes/classy/css/components/action-links.css
+0 1 0 832 0 0
+/preventivo/francesco-dattolo-20102016-1476981951
+0 1 16491776 16224 0 0
+/preventivo/michele-scamarra-14102016-1476429018
+0 4 0 49988 0 0
+/sites/all/modules/ckeditor/images/buttons/font.png
+1 1 0 968 0 0
+/sites/all/modules/ckeditor/images/buttons/outdent.png
+1 1 0 699 0 0
+/sites/all/modules/ckeditor/css/ckeditor.css
+0 440 0 49565 0 0
+/preventivo/nodefield-clientefieldcliente10122016-1906
+0 1 0 18671 0 0
+/admin/structure/field-collections/field-articolo/display/full
+0 1 0 25047 0 0
+/core/themes/seven/css/components/colors.css
+0 1 0 225 0 0
+/modules/shortcut/shortcut.css
+0 231 0 281736 0 0
+/modules/system/system.admin.css
+0 188 0 680561 0 0
+/admin/reports/fields/views-fields
+0 1 0 53537 0 0
+/sites/all/libraries/yui/build/animation/animation-min.js
+0 3 0 28480 0 0
+/sites/all/themes/adminimal_theme/css/tablet.css
+0 430 0 60162 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-bg_flat_75_ffffff_40x100.png
+1 6 0 1068 0 0
+/admin/structure/types/manage/cliente/comment/display
+0 1 0 14010 0 0
+/core/themes/seven/css/base/print.css
+0 1 0 1579 0 0
+/themes/bartik/images/buttons.png
+1 17 0 2493 0 0
+/sites/all/libraries/yui/build/assets/skins/sam/sprite.png
+1 1 0 3745 0 0
+/sites/all/libraries/yui/build/button/button-min.js
+0 3 0 56816 0 0
+/sites/all/modules/views/js/views-list.js
+0 6 0 3798 0 0
+/js/admin_menu/cache/9e65f78dbfa146340f7e26c1e681b6b6
+0 3 0 3075 0 0
+/preventivo/francesco-dattolo-20102016-1476981967
+0 4 16492448 64701 0 0
+/core/assets/vendor/jquery/jquery.min.js
+0 1 0 85659 0 0
+/core/themes/stable/images/core/icons/787878/file.svg
+0 9 0 366 0 0
+/misc/states.js
+0 17 0 52512 0 0
+/sites/all/modules/ckeditor/images/buttons/copy.png
+1 1 0 684 0 0
+/misc/ui/jquery.ui.core.min.js
+0 41 0 56225 0 0
+/sites/default/files/js/js_rpWygDCadefIYoTduVqxK1J_MovhaItqJHMn7Wh8rrk.js
+0 1 0 24653 0 0
+/sites/default/files/css/css_Lv_X1miRjSM2Z_RgbQrW2C4SuGqjFUkpZ3rDjs7e7WE.css
+0 1 0 2940 0 0
+/misc/favicon.ico
+0 45 0 244350 0 0
+/core/themes/seven/css/components/messages.css
+0 1 0 391 0 0
+/sites/all/modules/ckeditor/images/buttons/removeformat.png
+1 1 0 871 0 0
+/core/assets/vendor/ckeditor/lang/it.js
+0 9 0 18106 0 0
+/js/admin_menu/cache/e9c558735f0820b5d3d1844a8dab76e9
+0 1 0 2448 0 0
+/misc/permissions.png
+1 1 0 242 0 0
+/sites/all/modules/ckeditor/images/buttons/pastefromword.png
+1 1 0 723 0 0
+/core/themes/stable/images/core/icons/787878/people.svg
+0 9 0 1072 0 0
+/modules/shortcut/shortcut.png
+1 104 0 1674 0 0
+/core/themes/classy/css/components/tabledrag.css
+0 1 0 202 0 0
+/sites/all/modules/ckeditor/images/buttons/table.png
+1 1 0 535 0 0
+/node/add/preventivo
+0 80 0 1827151 0 0
+/admin/config/content/ckeditor/editg
+0 3 0 49362 0 0
+/admin/structure/views/ajax/add-item/preventivicliente/page/argument
+0 4 0 284902 0 0
+/admin/structure/types/manage/preventivo/display/teaser
+0 5 0 119886 0 0
+/js/admin_menu/cache/719905c7d569d39bbfdbcd100234f60d
+0 1 0 4148 0 0
+/sites/all/modules/ckeditor/images/buttons/textcolor.png
+1 1 0 813 0 0
+/core/modules/system/css/components/align.module.css
+0 1 0 484 0 0
+/admin/structure/block
+0 41 0 2792469 0 0
+/js/admin_menu/cache/f2c07b2dafe2888c0fc31754ac6fcd85
+0 6 16486240 9608 0 0
+/preventivo/michele-scamarra-14102016-1476434868
+0 3 0 38238 0 0
+/sites/all/modules/ckeditor/images/delete.png
+1 1 0 715 0 0
+/admin/structure/views/settings
+0 2 0 34051 0 0
+/js/admin_menu/cache/72980640d88053464ddc14b0936ff165
+0 1 0 3297 0 0
+/sites/default/files/languages/it_Y-_3q0kij8s1HZ-vuKHWkTalnRJDTFooAAXePMhKY4I.js
+0 4 0 9096 0 0
+/js/admin_menu/cache/36e23c47ebaf9362a9fde02ff38fe117
+0 7 0 6412 0 0
+/admin/structure/views/ajax/display/preventivi/page/row_options
+0 1 0 28341 0 0
+/sites/all/modules/ckeditor/images/buttons/scayt.png
+1 1 0 836 0 0
+/node/37/edit
+0 8 16484480 301925 0 0
+/admin/structure/computed_field_recompute
+0 1 16488144 15068 0 0
+/sites/all/themes/adminimal_theme/css/images/config/user-interface-small.png
+1 1 0 1351 0 0
+/admin/structure/field-collections/field-articolo/fields/field_codice/delete
+0 1 0 12873 0 0
+/sites/all/modules/adminimal_admin_menu/adminimal_admin_menu.css
+0 276 0 1079865 0 0
+/sites/all/modules/token_insert_entity/plugins/rendered_entity/rendered_entity.css
+0 1 0 0 0 0
+/sites/all/modules/views/images/loading-small.gif
+1 2 0 4224 0 0
+/sites/all/modules/ckeditor/images/buttons/smiley.png
+1 1 0 916 0 0
+/sites/default/files/css/css_ggG3l22CAyYW4h4nIGfPquF5TQW-xUSBRg3xBg8YGQY.css
+0 10 0 27448 0 0
+/js/admin_menu/cache/b99b8e9ae7da8d6a9838b9d1bfc578b6
+0 1 0 3780 0 0
+/sites/all/modules/print/css/print.css
+0 63 0 24750 0 0
+/sites/all/themes/adminimal_theme/skins/material/material.js
+0 162 0 467742 0 0
+/modules/contextual/contextual.css
+0 30 0 46800 0 0
+/core/themes/seven/css/components/panel.css
+0 1 0 283 0 0
+/admin/structure/views/view/preventivi/edit/block
+0 1 0 36837 0 0
+/sites/all/modules/ckeditor/images/buttons/about.png
+1 1 0 843 0 0
+/core/themes/classy/css/components/menu.css
+0 1 0 672 0 0
+/core/modules/ckeditor/js/plugins/drupalimage/plugin.js
+0 2 0 28878 0 0
+/sites/default/files/js/js_VMWzN76gYL2yF6dOi35tCBHxRazjlmUrkJCSpsGWv4c.js
+0 1 0 103656 0 0
+/sites/all/modules/ckeditor/images/buttons/paste.png
+1 1 0 724 0 0
+/admin/structure/views/ajax/display/preventivi/page/row_plugin
+0 2 0 37180 0 0
+/sites/all/modules/ckeditor/images/tick.png
+1 1 0 537 0 0
+/modules/file/file.js
+0 1 0 6175 0 0
+/js/admin_menu/cache/71c90d22301112a5795e815625c255b9
+0 1 0 3787 0 0
+/sites/all/modules/ctools/css/button.css
+0 59 0 30218 0 0
+/core/modules/ckeditor/js/plugins/drupallink/plugin.js
+0 2 0 20408 0 0
+/core/themes/bartik/css/components/captions.css
+0 1 0 648 0 0
+/sites/all/themes/adminimal_theme/skins/material/images/check.svg
+0 1 0 633 0 0
+/themes/stark/screenshot.png
+1 3 0 11662 0 0
+/modules/search/search.css
+0 584 0 92496 0 0
+/misc/configure.png
+1 6 0 744 0 0
+/sites/all/modules/ckeditor/images/buttons/horizontalrule.png
+1 1 0 519 0 0
+/admin/structure/types/manage/preventivo/fields/field_prezzo/delete
+0 1 0 10282 0 0
+/admin/structure/types/manage/preventivo/fields/field_descrizione/field-settings
+0 1 0 11426 0 0
+/sites/all/modules/ckeditor/plugins/drupalbreaks/images/drupalbreak.png
+1 2 0 382 0 0
+/sites/default/files/languages/it_WdaVa6IOH9wvm2w8iDRdMzPcovXz0bG18WvCU1WEkOg.js
+0 3 0 4378 0 0
+/admin/structure/types/manage/page
+0 2 0 591719 0 0
+/sites/all/modules/references_dialog/js/references-dialog.js
+0 68 0 263150 0 0
+/sites/all/libraries/yui/build/fonts/fonts-min.css
+0 3 0 842 0 0
+/modules/dblog/dblog.css
+0 26 0 30756 0 0
+/sites/all/modules/ctools/js/collapsible-div.js
+0 6 0 47718 0 0
+/sites/all/modules/ckeditor/images/buttons/button.png
+1 1 0 528 0 0
+/preventivo/10132016-0957-0
+0 3 0 31663 0 0
+/admin/structure/types/manage/cliente/fields/node.cliente.body
+0 2 0 135148 0 0
+/modules/user/user.css
+0 585 0 301455 0 0
+/js/admin_menu/cache/516f0ddc72d00850f2dc21d21d9c3374
+0 1 16482496 4749 0 0
+/admin/structure/types/manage/preventivo/fields/field_tipo
+0 1 0 20551 0 0
+/core/misc/ajax.js
+0 1 0 48514 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-bg_flat_65_0074bd_40x100.png
+1 1 0 180 0 0
+/js/admin_menu/cache/1592556dea85998fdaa444cdc3a07868
+0 1 0 4566 0 0
+/sites/all/modules/references_dialog/css/references-dialog-search.css
+0 6 0 2400 0 0
+/admin/structure/menu/parents
+0 59 0 5266 0 0
+/admin/structure/views/ajax/display/clienti/page/path
+0 2 0 30341 0 0
+/js/admin_menu/cache/965a06a0b54883104e9603014632005e
+0 1 0 4499 0 0
+/admin/structure/block/manage/block/1/configure
+0 1 0 21706 0 0
+/admin/structure/menu
+0 3 0 37481 0 0
+/admin/content
+0 89 0 1626908 0 1
+/admin/structure/types/manage/preventivo/fields/field_ragione_sociale/delete
+0 1 0 10428 0 0
+/sites/all/themes/adminimal_theme/css/images/config/gears-small.png
+1 1 0 1358 0 0
+/sites/default/files/js/js_g13l6xZ6WEGiyNq-6dibh_XKAgdbldCJmDLxS5Fd61g.js
+0 1 0 117157 0 0
+/core/themes/stable/css/system/components/nowrap.module.css
+0 1 0 96 0 0
+/sites/default/files/css/css_5DjjYKM1zyRcMEqFcd4hG3ZYwvRNqqmkk2QMLzlgzdk.css
+0 1 0 10615 0 0
+/sites/all/libraries/yui/build/editor/assets/skins/sam/editor-sprite-active.gif
+1 1 0 5614 0 0
+/core/authorize.php
+0 10 0 88368 0 0
+/sites/all/themes/adminimal_theme/css/images/config/system-small.png
+1 1 0 1232 0 0
+/admin/structure/field-collections/field-articolo/display
+0 9 0 229887 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-bg_flat_75_dddddd_40x100.png
+1 1 0 180 0 0
+/print/14
+0 8 0 37964 0 0
+/sites/all/modules/ckeditor/images/buttons/newpage.png
+1 1 0 580 0 0
+/sites/all/modules/token_insert/token_insert_ckeditor/plugins/token_insert_ckeditor/plugin.js
+0 1 0 2683 0 0
+/printpdf/33
+0 1 0 166 0 0
+/misc/throbber-inactive.png
+1 47 0 3200 0 0
+/core/themes/classy/css/components/user.css
+0 1 0 1281 0 0
+/core/assets/vendor/ckeditor/ckeditor.js
+0 9 0 547829 0 0
+/core/themes/stable/images/core/help.png
+1 9 0 294 0 0
+/sites/all/modules/module_filter/css/module_filter.css
+0 70 0 25047 0 0
+/misc/textarea.js
+0 47 0 9200 0 0
+/modules/overlay/images/background.png
+1 1 0 76 0 0
+/core/themes/classy/css/components/links.css
+0 1 0 343 0 0
+/core/themes/stable/css/system/components/item-list.module.css
+0 1 0 285 0 0
+/core/misc/debounce.js
+0 1 0 1516 0 0
+/sites/default/files/css/css_hKGUVCK6qY6g-9_hU25nNGZ1--Yh6BjV8VMDVekohLI.css
+0 1 0 4540 0 0
+/print/21
+0 1 0 4968 0 1
+/print/27
+0 5 0 45689 0 0
+/core/themes/seven/css/base/elements.css
+0 1 0 2603 0 0
+/sites/default/files/languages/it_Ef1D__SUcE_xW4MFm8tttmyNQ-d5eH1EUYPX8nDczIY.js
+0 264 0 245384 0 0
+/js/admin_menu/cache/f47321429b9d72f09f8f295c280ab6f1
+0 1 0 4536 0 0
+/print/preventivo/michele-scamarra-13102016-1476375363
+0 2 0 15764 0 0
+/core/themes/classy/css/components/container-inline.css
+0 1 0 363 0 0
+/modules/overlay/overlay-child.css
+0 1 0 3351 0 0
+/authorize.php
+0 105 0 254897 0 0
+/sites/all/modules/ckeditor/images/buttons/language.png
+1 1 0 668 0 0
+/sites/all/modules/ckeditor/images/buttons/bidirtl.png
+1 1 0 768 0 0
+/sites/default/files/js/js_G7KLfkBHHiynSBsWq9vQ2p1Yf_-LZjwdDpZnE2w0h-g.js
+0 1 0 103679 0 0
+/core/misc/collapse.js
+0 1 0 4091 0 0
+/core/themes/stable/css/system/components/ajax-progress.module.css
+0 1 0 1037 0 0
+/admin/structure/views/ajax/rearrange/preventivi/page/argument
+0 2 0 31174 0 0
+/sites/all/themes/adminimal_theme/css/images/config/search-small.png
+1 1 0 1411 0 0
+/js/admin_menu/cache/ffd42c2caed3dfc9f768105bdaba5773
+0 5 0 11658 0 0
+/admin/structure/types/manage/preventivo/groups/group_articolo/delete/form
+0 1 0 9192 0 0
+/modules/comment/comment.css
+0 75 0 5888 0 0
+/print/30
+0 1 0 7753 0 0
+/misc/ui/jquery.ui.resizable.css
+0 112 0 106652 0 0
+/admin/config/user-interface/print/ui
+0 6 0 183884 0 0
+/admin/structure/types/manage/cliente
+0 23 0 3148131 0 0
+/print/33
+0 11 0 54210 0 0
+/admin/structure/views/view/archive/clone
+0 1 0 9948 0 0
+/sites/all/libraries/yui/build/container/container-min.js
+0 3 0 153524 0 0
+/sites/all/modules/field_group/field_group.js
+0 6 0 8247 0 0
+/core/assets/vendor/ckeditor/skins/moono/editor.css
+0 9 0 63250 0 0
+/core/misc/icons/bebebe/chevron-disc-right.svg
+0 1 0 440 0 0
+/modules/field/modules/text/text.js
+0 28 0 35540 0 0
+/sites/all/themes/adminimal_theme/images/arrow-asc.png
+1 2 0 176 0 0
+/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css
+0 1 0 445 0 0
+/modules/menu/menu.admin.js
+0 22 0 31416 0 0
+/sites/all/modules/field_group/field_group.field_ui.css
+0 96 0 19126 0 0
+/core/misc/batch.js
+0 13 0 15899 0 0
+/modules/system/system.js
+0 2 0 9394 0 0
+/sites/all/modules/ctools/js/dropbutton.js
+0 59 0 186528 0 0
+/sites/all/modules/ckeditor/images/buttons/strike.png
+1 1 0 879 0 0
+/core/themes/stable/images/core/icons/000000/orgchart.svg
+0 1 0 842 0 0
+/core/themes/stable/images/core/throbber-active.gif
+1 1 0 1275 0 0
+/admin/structure/types/manage/preventivo/fields/field_ragione_sociale/edit
+0 1 0 19047 0 0
+/print/preventivo/francesco-dattolo-14102016-1476435371
+0 2 0 15782 0 1
+/sites/all/modules/views/css/views-admin.css
+0 22 0 134288 0 0
+/sites/all/themes/adminimal_theme/css/images/config/people-small.png
+1 1 0 1362 0 0
+/admin/structure/types/manage/preventivo/fields/field_codice/field-settings
+0 1 0 11705 0 0
+/modules/system/system.menus.css
+0 588 0 341880 0 0
+/js/admin_menu/cache/0f3404d7b0397e9bdea3a3f552dba8ba
+0 1 0 4324 0 0
+/sites/all/modules/menu_editor/menu_editor.js
+0 2 0 5110 0 0
+/admin/structure/types/manage/preventivo/fields/field_iva
+0 8 0 199793 0 0
+/sites/all/libraries/yui/build/menu/menu-min.js
+0 3 0 116424 0 0
+/core/misc/timezone.js
+0 1 0 2784 0 0
+/modules/filter/filter.js
+0 44 0 16680 0 0
+/preventivo/preventivo
+0 1 0 18313 0 0
+/core/misc/drupal.js
+0 1 0 19222 0 0
+/misc/tableselect.js
+0 37 0 145521 0 0
+/sites/all/themes/adminimal_theme/skins/default/default.css
+0 268 0 875475 0 0
+/core/install.php
+0 86 0 136506 0 0
+/sites/all/modules/token_insert_entity/plugins/rendered_entity/images/insert.png
+1 1 0 643 0 0
+/admin/structure/block/manage/block/2/delete
+0 1 0 9301 0 0
+/admin/structure/block/manage/system/main-menu/configure
+0 1 0 22907 0 0
+/sites/all/modules/module_filter/js/modules.js
+0 66 0 395720 0 0
+/preventivo/francesco-dattolo-14102016-1476435371
+0 6 0 78511 0 0
+/core/themes/stable/images/core/icons/bebebe/pencil.svg
+0 1 0 442 0 0
+/sites/all/themes/adminimal_theme/css/images/select-arrow.svg
+0 27 0 7110 0 0
+/js/admin_menu/cache/d7e339faf49ed6cc1f2487af78fe0aab
+0 1 0 4564 0 0
+/misc/batch.js
+0 38 0 35682 0 0
+/themes/bartik/images/search-button.png
+1 9 0 725 0 0
+/system/ajax
+0 86 0 1731721 0 0
+/admin/structure/field-collections/field_articolo
+0 14 0 551511 1 1
+/core/themes/classy/css/components/ui-dialog.css
+0 1 0 208 0 0
+/sites/all/themes/adminimal_theme/skins/default/mac_os_x.css
+0 268 0 90975 0 0
+/sites/all/libraries/openwysiwyg/styles/wysiwyg.css
+0 1 0 2977 0 0
+/admin/reports/fields
+0 5 0 196259 0 0
+/sites/all/themes/adminimal_theme/css/images/config/user-interface-medium.png
+1 1 0 2144 0 0
+/sites/default/files/js/js_Q29ZomdHh8Cuup7WpDFcLSV2sg3Rd08xIz_RIJkdPP8.js
+0 1 0 121238 0 0
+/js/admin_menu/cache/f675ab0c4c98ff8a6d1d2362bf0fb599
+0 1 16491264 4810 0 0
+/admin/structure/types/manage/cliente/fields/field_citt_
+0 1 0 18719 0 0
+/core/themes/stable/css/system/components/align.module.css
+0 1 0 484 0 0
+/admin/config/user-interface/print/email
+0 5 0 73355 0 0
+/themes/garland/screenshot.png
+1 3 0 10950 0 0
+/sites/all/modules/ckeditor/images/buttons/select.png
+1 1 0 616 0 0
+/admin/structure/types/manage/preventivo/fields/field_prezzo
+0 1 0 19057 0 0
+/modules/update/update.css
+0 2 0 4056 0 0
+/sites/default/files/languages/it_jYxPPCqpY8w-1gGHA9PR8CZGKwRDVRB0LmMV-WBnvXs.js
+0 39 0 51221 0 0
+/core/themes/stable/css/system/components/tree-child.module.css
+0 1 0 478 0 0
+/modules/field_ui/field_ui.css
+0 61 0 100548 0 0
+/js/admin_menu/cache/046fe947abbf448f6059b941666ca9cf
+0 1 0 3855 0 0
+/sites/all/themes/adminimal_theme/css/images/config/regional-medium.png
+1 1 0 3201 0 0
+/admin/structure/types/manage/preventivo/fields/field_iva/field-settings
+0 5 0 68555 0 0
+/sites/all/modules/ckeditor/includes/uicolor/plugin.js
+0 1 0 968 0 0
+/admin/structure/types/manage/cliente/fields/field_provincia/field-settings
+0 1 0 11690 0 0
+/sites/default/files/css/css_xc_NA-TjgbNBJ081BfkIPTBA8zxqHYuFUvg-xsdapnk.css
+0 1 0 4190 0 0
+/core/themes/seven/css/components/admin-list.css
+0 1 0 988 0 0
+/sites/all/modules/token/jquery.treeTable.js
+0 3 0 20355 0 0
+/sites/all/modules/ckeditor/includes/uicolor/lang/it.js
+0 1 0 373 0 0
+/core/themes/seven/css/components/content-header.css
+0 1 0 117 0 0
+/js/admin_menu/cache/a9c42c9dc9b77cf203b1a116fb21df53
+0 1 0 4292 0 0
+/sites/all/themes/adminimal_theme/css/icons-config.css
+0 430 0 450882 0 0
+/admin/structure/views/view/preventivicliente/preview/page/ajax
+0 3 0 16140 0 0
+/admin/structure/field-collections/field-articolo/fields/field_descrizione
+0 6 0 166025 0 0
+/admin/structure
+0 4 0 84137 0 0
+/admin/structure/types/manage/preventivo/fields/field_iva/delete
+0 2 0 25684 0 0
+/sites/all/modules/wysiwyg/editors/js/openwysiwyg.js
+0 1 0 3960 0 0
+/admin/structure/menu/settings
+0 6 0 66594 0 0
+/print/preventivo/francesco-dattolo-18102016-1476804157
+0 1 0 7775 0 0
+/misc/message-16-warning.png
+1 4 0 1326 0 0
+/sites/all/modules/views/js/views-contextual.js
+0 3 0 1512 0 0
+/js/admin_menu/cache/06c7e13735aaa7f6cf6fd2f405e15eb6
+0 2 0 858 0 1
+/print/preventivo/pippo-franco-18102016-1476795876
+0 2 0 21200 0 0
+/sites/all/modules/ckeditor/ckeditor.styles.js
+0 2 0 7498 0 0
+/sites/default/files/languages/it_jkmptjm0FWLFganLF6kJB2fytPQTDS-mFDpfvKjefgs.js
+0 1 0 1478 0 0
+/admin/reports/event/1221
+0 1 16491408 11838 0 0
+/admin/structure/types/manage/cliente/fields/field_indirizzo/field-settings
+0 1 16057952 14298 0 0
+/admin/reports/event/1224
+0 1 16491536 12499 0 0
+/sites/default/files/css/css_RHKBek9BwmbF882IpJbVa3r3fPoQoQxUw7ukcu68H30.css
+0 1 0 3414 0 0
+/misc/ui/jquery.ui.resizable.min.js
+0 40 0 208392 0 0
+/core/themes/stable/css/user/user.module.css
+0 1 0 365 0 0
+/sites/default/files/js/js_DdXW6Ssxtg4J0DK5Po3JdZxOuwqOgUvNYx2XVATz4yo.js
+0 1 0 109880 0 0
+/field-collection/field-articolo/4/delete
+0 1 0 10877 0 0
+/js/admin_menu/cache/c9463a57f4a0dfec3320bfddcb6a7010
+0 1 0 4336 0 0
+/js/admin_menu/cache/c9903e7bb7d47c96fa143dadab09bdc6
+0 1 0 4644 0 0
+/core/themes/classy/css/components/more-link.css
+0 1 0 171 0 0
+/preventivo/francesco-dattolo-18102016-1476804157
+0 14 0 197066 0 0
+/admin/config/content/ckeditor/skinframe
+0 14 0 29764 0 0
+/core/themes/classy/css/components/field.css
+0 1 0 524 0 0
+/sites/all/modules/views/css/views.css
+0 558 0 103222 0 0
+/core/themes/seven/css/components/views-ui.css
+0 1 0 7091 0 0
+/admin/structure/types/manage/cliente/fields/field_nome/field-settings
+0 1 0 10503 0 0
+/misc/menu-leaf.png
+1 1 0 126 0 0
+/sites/default/files/js/js_nBxwMk3VthHSkPFFq6X4-p5akE7MvvmJEcaeMhrXrPA.js
+0 1 0 120636 0 0
+/core/themes/stable/images/core/icons/787878/puzzlepiece.svg
+0 9 0 787 0 0
+/preventivo/francesco-dattolo-20102016-1476982224
+0 1 16492592 16370 0 0
+/js/admin_menu/cache/48ba6e52256f3d89ab9d69ebd213e404
+0 2 0 4152 0 0
+/admin/structure/views/view/clienti/edit
+0 6 0 467146 1 0
+/sites/default/files/languages/it_7Ho-cC6DKDegxmVmo1tqln8Qnea8E9gDNFjR1KMFuSs.js
+0 2 0 4330 0 0
+/sites/all/modules/admin_menu/admin_menu.css
+0 314 0 606740 0 0
+/core/themes/stable/images/core/icons/787878/paintbrush.svg
+0 9 0 587 0 0
+/core/themes/stable/images/shortcut/favstar.svg
+0 9 0 5464 0 0
+/core/themes/stable/images/core/icons/787878/twistie-up.svg
+0 1 0 217 0 0
+/js/admin_menu/cache/a960737cebe3040d2572f3de00180995
+0 1 16487712 4801 0 0
+/cliente
+0 2 0 18829 0 0
+/clienti
+0 30 0 279376 0 1
+/js/admin_menu/cache/03ac0e6459f481d42c886c69bc3c91fc
+0 1 0 4561 0 0
+/sites/all/themes/adminimal_theme/css/images/config/services-medium.png
+1 2 0 5312 0 0
+/core/themes/stable/images/core/icons/000000/puzzlepiece.svg
+0 1 0 787 0 0
+/admin/structure/menu/add
+0 1 0 10800 0 0
+/themes/bartik/logo.png
+1 18 0 10437 0 0
+/themes/seven/images/buttons.png
+1 30 0 2358 0 0
+/preventivo/michele-scamarra-14102016-1476435125
+0 3 0 41652 0 0
+/admin/people
+0 2 0 49651 0 0
+/admin/structure/block/manage/views/preventivicliente-block_1/configure
+0 9 0 197810 0 0
+/core/assets/vendor/domready/ready.min.js
+0 1 0 485 0 0
+/sites/all/modules/ckeditor/images/buttons/radio.png
+1 1 0 874 0 0
+/js/admin_menu/cache/12fff63a6f663c1216965d8205237c0a
+0 1 0 4673 0 0
+/sites/all/modules/module_filter/css/update_status.css
+0 1 0 365 0 0
+/js/admin_menu/cache/b419892fa2f2701fb2a8ff7162fa7852
+0 1 0 4120 0 0
+/sites/all/modules/wysiwyg/editors/js/none.js
+0 4 0 9192 0 0
+/sites/all/modules/ckeditor/images/buttons/bulletedlist.png
+1 1 0 646 0 0
+/sites/default/files/Codice.cc - Web Developer Blog-rounded.png
+1 55 0 133744 0 0
+/cliente/michele-scamarra
+0 28 0 401403 0 0
+/js/admin_menu/cache/65c2baa9809e8e16f5c0679e05af52a2
+0 5 0 3843 0 0
+/sites/default/files/favicon.png
+1 64 0 40960 0 0
+/core/assets/vendor/normalize-css/normalize.css
+0 1 0 7708 0 0
+/node/22/edit
+0 1 0 19449 0 0
+/sites/all/themes/adminimal_theme/css/jquery.ui.theme.css
+0 78 0 1916143 0 0
+/admin/structure/views/ajax/display/clienti/page/menu
+0 2 0 36253 0 0
+/admin/config/regional/currency
+0 1 0 268806 0 0
+/admin/structure/types/manage/preventivo/display
+0 50 0 1636998 0 0
+/admin/structure/types/manage/preventivo/groups/group_articoli/delete/form
+0 2 0 18384 0 0
+/admin/config/system/site-information
+0 3 0 38712 0 0
+/sites/default/files/js/js__Q58oss6uvc1hsBcOb88GLBtTlZLpYC3NTkvytK8Cds.js
+0 9 0 258790 0 0
+/node/add/article
+0 1 0 49305 0 0
+/js/admin_menu/cache/711948213fe6914d3ab222b8f3f74a07
+0 1 0 2936 0 0
+/core/themes/stable/images/core/icons/bebebe/star.svg
+0 9 0 532 0 0
+/admin/structure/views/ajax/display/clienti/page/style_options
+0 7 0 139144 0 0
+/sites/all/modules/ckeditor/images/buttons/undo.png
+1 1 0 850 0 0
+/core/misc/states.js
+0 1 0 22516 0 0
+/js/admin_menu/cache/82cfe700ba2b778f6d75066c179b7606
+0 1 0 2953 0 0
+/core/themes/bartik/css/components/text-formatted.css
+0 1 0 270 0 0
+/sites/all/themes/adminimal_theme/css/images/fc.png
+1 4 0 246 0 0
+/sites/all/themes/adminimal_theme/skins/alternative/alternative.css
+0 2 0 33336 0 0
+/core/themes/stable/images/core/icons/bebebe/push-up.svg
+0 1 0 394 0 0
+/sites/all/modules/ckeditor/css/ckeditor.editor.css
+0 15 0 5170 0 0
+/misc/ui/jquery.ui.widget.min.js
+0 41 0 42562 0 0
+/sites/all/modules/module_filter/js/module_filter.js
+0 70 0 506736 0 0
+/admin/config/content/ckeditor
+0 10 0 107122 0 0
+/admin/config/search/clean-urls/check
+0 2 0 30 0 0
+/sites/all/libraries/yui/build/menu/assets/skins/sam/menuitem_checkbox.png
+1 1 0 3625 0 0
+/admin/structure/trigger/user
+0 4 0 64722 0 0
+/core/themes/seven/css/components/system-status-report.css
+0 1 0 311 0 0
+/sites/all/modules/module_filter/js/permissions.js
+0 15 0 30270 0 0
+/js/admin_menu/cache/a33e3ae69c30306d34efbadf49d2795b
+0 1 0 2751 0 0
+/admin/structure/views/view/preventivi/preview/block/ajax
+0 1 0 7938 0 0
+/admin/structure/views/ajax/add-item/preventivicliente/block_1/empty
+0 2 0 42227 0 0
+/js/admin_menu/cache/ad01de2ce2fb84a9077e42bc54953497
+0 1 0 4683 0 0
+/admin/structure/views/ajax/add-item/clienti/page/field
+0 3 0 157035 1 0
+/node/add/descrizione-articoli
+0 2 16483200 41744 0 0
+/js/admin_menu/cache/9b661befdcb37fb84cbddc6b809e81fb
+0 1 0 4683 0 0
+/js/admin_menu/cache/9c70b7f397075f3840cdf63169abbfa9
+0 1 0 4491 0 0
+/js/admin_menu/cache/4e56603ee93f4c4de5ca91dda0b3b47f
+0 2 0 3295 0 0
+/sites/default/files/css/css_0h4WCW9sfx8DlG04P-NleM2zll-xuQ0DEuh1nnw4FNw.css
+0 1 0 4535 0 0
+/misc/ajax.js
+0 39 0 275385 0 0
+/core/misc/icons/e29700/warning.svg
+0 1 0 412 0 0
+/admin/structure/field-collections/field-articolo/fields/field_codice/field-settings
+0 3 0 34608 0 0
+/admin/structure/field-collections/field-articolo/fields
+0 27 0 1111014 0 1
+/js/admin_menu/cache/e101b6a8d9e19a190f88ea7249899011
+0 1 0 4305 0 0
+/sites/all/modules/ckeditor/includes/uicolor/yui/assets/yui.css
+0 1 0 3079 0 0
+/admin/appearance/settings/adminimal
+0 13 0 311953 0 0
+/admin/reports/event/1041
+0 1 0 8910 0 0
+/sites/all/modules/ckeditor/images/buttons/styles.png
+1 1 0 1339 0 0
+/misc/message-24-error.png
+1 12 0 1466 0 0
+/js/admin_menu/cache/d7b08825f8cc284eef793927b02a7808
+0 1 0 4152 0 0
+/sites/all/modules/views/css/views-admin.contextual.css
+0 22 0 24508 0 0
+/admin/structure/display-modes/form
+0 1 0 53425 0 0
+/admin/structure/menu/manage/user-menu
+0 1 0 20878 0 0
+/sites/default/files/js/js_HhhcYMAPMEWxSPLCyH9HpsSlnIUKtFwFjZnudTGQ5uI.js
+0 1 0 101411 0 0
+/modules/field_ui/field_ui.js
+0 61 0 672828 0 0
+/sites/default/files/js/js_5a_h9vdvhUcTYuiZwsKA7CQT0TFR7xsJgSvOjaMqqoo.js
+0 1 0 97831 0 0
+/sites/default/files/languages/it_aSpUTIrhBU7yd5JY58LRqeyg8ON0f4qvFpQT58bF-Iw.js
+0 1 0 1027 0 0
+/sites/all/modules/ckeditor/images/buttons/group.png
+1 1 0 190 0 0
+/js/admin_menu/cache/aad86e949ec06c7f692a49dc1565ec9d
+0 5 16488560 4784 0 0
+/admin/structure/views/ajax/display/preventivi/page/style_options
+0 13 0 266070 0 0
+/js/admin_menu/cache/3a0ae293c6fcf0f6a13bc27ae345e8f2
+0 6 0 13662 0 0
+/modules/help/help.css
+0 1 0 138 0 0
+/admin/structure/types/manage/cliente/fields/field_cognome/field-settings
+0 1 0 10569 0 0
+/sites/default/files/js/js_-98OcOWLciz553QloQahMv2u2J7filcPgX1cWCZOGBY.js
+0 1 0 69631 0 0
+/misc/machine-name.js
+0 65 0 311954 0 0
+/misc/message-16-error.png
+1 7 0 1038 0 0
+/js/admin_menu/cache/b09fdd7827da4aac202e8cd4bdec1328
+0 1 0 3911 0 0
+/core/themes/stable/images/core/icons/000000/move.svg
+0 1 0 581 0 0
+/sites/all/modules/references_dialog/img/plus.png
+1 33 0 1580 0 0
+/sites/default/files/languages/it_dT7ZWgCz3SdjbMItOW7B1zmsyxeTUaEcMCPtli5woYw.js
+0 18 0 12465 0 0
+/sites/default/files/languages/it_Kn60_jBz9f3TvxJzKDoDYjq69RrToHEOJs6-045xR60.js
+0 7 0 12595 0 0
+/core/misc/icons/787878/cog.svg
+0 1 0 999 0 0
+/admin/structure/types/manage/cliente/fields/field_telfono/field-settings
+0 1 0 11646 0 0
+/preventivo/10132016-0957
+0 2 0 22913 0 0
+/js/admin_menu/cache/9993e23bad1a4d88c295392efaad24e1
+0 1 0 4502 0 0
+/sites/all/modules/ckeditor/images/buttons/bidiltr.png
+1 1 0 769 0 0
+/themes/seven/images/ui-icons-454545-256x240.png
+1 1 0 3702 0 0
+/core/misc/progress.js
+0 1 0 4891 0 0
+/admin/structure/views/view/clienti/preview/page/ajax
+0 3 0 24879 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente2/widget-type
+0 2 0 19965 0 0
+/core/themes/stable/images/core/icons/e29700/warning.svg
+0 1 0 412 0 0
+/sites/default/files/css/css_vAbXp5_sifoZwpLbiVPSo-Gwh0Do3hIM2EDqHbuoNWQ.css
+0 2 0 24804 0 0
+/sites/all/modules/field_permissions/field_permissions.admin.js
+0 1 0 3518 0 0
+/js/admin_menu/cache/13f5098ebf67d2cae0e63358d9e0a42b
+0 1 0 4558 0 0
+/admin/config
+0 5 0 172897 0 0
+/admin/reports/status
+0 26 0 1020433 1 0
+/js/admin_menu/cache/3a14356c8706b3d5fa24172e723f1a34
+0 1 0 3838 0 0
+/admin/structure/views/ajax/config-item/preventivicliente/block_1/argument/nid
+0 3 0 132679 0 0
+/sites/all/modules/token/arrow-right.png
+1 3 0 381 0 0
+/misc/jquery.cookie.js
+0 102 0 75919 0 0
+/sites/all/modules/adminimal_admin_menu/js/adminimal_admin_menu.js
+0 275 0 176985 0 0
+/node/23/edit
+0 46 0 1833890 0 3
+/misc/ui/jquery.ui.dialog.min.js
+0 40 0 138252 0 0
+/preventivo/francesco-dattolo-10132016-0959
+0 10 0 112563 0 0
+/admin/structure/menu/manage/main-menu/list
+0 1 0 26665 0 0
+/core/misc/details-aria.js
+0 1 0 689 0 0
+/sites/default/files/css/css_H_1F_KCS-agpSkCKwKKqeBKQnHA6mlPaBBBOlCJhSX4.css
+0 1 0 3840 0 0
+/admin/structure/types/manage/cliente/display/print
+0 1 0 33169 0 0
+/sites/default/files/js/js_Tvt5RF04gmbkyCBk2iTN3hciwq-MbIU3zLjL2B6bIIU.js
+0 1 0 24855 0 0
+/core/themes/stable/images/core/icons/787878/push-left.svg
+0 1 0 397 0 0
+/sites/all/modules/ckeditor/images/buttons/anchor.png
+1 1 0 757 0 0
+/sites/all/modules/adminimal_admin_menu/js/jquery.min.js
+0 275 0 9039060 0 0
+/misc/feed.png
+1 2 0 1312 0 0
+/sites/all/modules/ckeditor/images/buttons/superscript.png
+1 1 0 859 0 0
+/js/admin_menu/cache/20c6278cc875f2d28542b51813a58414
+0 1 0 2539 0 0
+/sites/all/modules/ckeditor/images/buttons/size.png
+1 1 0 1055 0 0
+/sites/all/modules/ckeditor/plugins/mediaembed/images/icon.png
+1 1 0 560 0 0
+/admin/structure/views/ajax/add-item/preventivicliente/page/relationship
+0 2 0 45948 0 0
+/core/modules/ckeditor/js/plugins/drupallink/icons/drupalunlink.png
+1 2 0 624 0 0
+/admin/structure/views/add
+0 2 0 54066 0 0
+/core/themes/stable/images/core/icons/787878/questionmark-disc.svg
+0 9 0 709 0 0
+/admin/structure/types/manage/cliente/form-display
+0 33 0 2175339 0 0
+/sites/all/modules/admin_menu/images/bkg.png
+1 2 0 236 0 0
+/admin/structure/types/manage/cliente/display/teaser
+0 3 0 109749 0 0
+/user/1
+0 1 16490880 74127 0 0
+/js/admin_menu/cache/5ec71d9d52560b0eb7f1abc4dbf5ccab
+0 6 0 3839 0 0
+/sites/default/files/css/css_vFBj1uTrIgRNkfosyvKxJ4iaPZgUUwyHu0rWkCkJDFI.css
+0 2 0 6932 0 0
+/core/themes/classy/css/components/exposed-filters.css
+0 1 0 905 0 0
+/sites/all/themes/adminimal_theme/skins/material/mac_os_x.css
+0 163 0 0 0 0
+/sites/all/modules/wysiwyg/plugins/break/images/break.gif
+1 1 0 108 0 0
+/sites/all/libraries/yui/build/container/assets/skins/sam/container.css
+0 3 0 9288 0 0
+/preventivo/pippo-franco-18102016-1476795761
+0 1 0 14582 0 0
+/sites/all/modules/entityreference/entityreference.admin.css
+0 8 0 424 0 0
+/misc/help.png
+1 22 0 882 0 0
+/admin/structure/views/ajax/display/preventivicliente/block_1/block_description
+0 2 0 31693 0 0
+/modules/overlay/images/close.png
+1 1 0 344 0 0
+/admin/config/user-interface/print
+0 9 0 120561 0 0
+/admin/structure/types/manage/cliente/fields/field_nome
+0 2 0 35620 0 0
+/sites/all/libraries/yui/build/button/assets/skins/sam/button.css
+0 3 0 6424 0 0
+/sites/default/files/js/js_nWpHJCHY8kw4zYF47pHI6AFk3N_Nbs0ohLsg60PZ3ok.js
+0 1 0 158134 0 0
+/admin/appearance/settings/my_adminimal
+0 3 0 77851 0 0
+/core/themes/classy/css/components/breadcrumb.css
+0 1 0 491 0 0
+/themes/seven/jquery.ui.theme.css
+0 38 0 548424 0 0
+/misc/ui/jquery.ui.mouse.min.js
+0 40 0 32796 0 0
+/modules/path/path.js
+0 13 0 4200 0 0
+/sites/all/modules/print/icons/print_icon.png
+1 156 0 2520 0 0
+/sites/all/modules/references_dialog/img/edit.png
+1 5 0 1145 0 0
+/js/admin_menu/cache/27c3ec394bc0560706f00af2f7c155d1
+0 1 0 2997 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente/widget-type
+0 10 0 101212 0 0
+/core/themes/stable/css/system/components/container-inline.module.css
+0 1 0 222 0 0
+/themes/seven/images/fc.png
+1 22 0 82 0 0
+/admin/people/permissions/4
+0 16 0 1635923 1 0
+/misc/jquery.ba-bbq.js
+0 4 0 12357 0 0
+/admin/config/content/wysiwyg
+0 14 0 246847 0 0
+/admin/config/content/wysiwyg/profile/full_html/edit
+0 1 0 35142 0 0
+/printmail/33
+0 2 0 26413 0 0
+/sites/all/libraries/yui/build/yahoo-dom-event/yahoo-dom-event.js
+0 3 0 75020 0 0
+/admin/config/content
+0 1 0 52306 0 0
+/sites/all/modules/ckeditor/images/buttons/unlink.png
+1 1 0 812 0 0
+/themes/seven/images/ui-icons-222222-256x240.png
+1 1 0 3702 0 0
+/core/install.php/system/timezone/CEST/7200/1
+0 1 0 14193 0 0
+/core/themes/stable/images/core/icons/787878/chevron-disc-up.svg
+0 1 0 410 0 0
+/modules/node/node.css
+0 584 0 23616 0 0
+/node/add/cliente
+0 40 0 1472418 0 0
+/sites/all/modules/ckeditor/images/buttons/iframe.png
+1 1 0 989 0 0
+/sites/all/themes/adminimal_theme/css/images/config/pen-medium.png
+1 1 0 1941 0 0
+/core/themes/seven/css/components/search-admin-settings.css
+0 1 0 238 0 0
+/sites/all/modules/adminimal_admin_menu/js/slicknav/slicknav.css
+0 276 0 560120 0 0
+/sites/default/files/css/css_n1EwKW8tKvAApY5gnmHb1ENXzHZ8sMdhmbHTLK1LbjI.css
+0 2 0 25570 0 0
+/core/misc/active-link.js
+0 1 0 2531 0 0
+/admin/structure/field-collections/field_articolo/display/full
+0 1 0 25047 0 0
+/core/themes/bartik/css/components/table.css
+0 1 0 1279 0 0
+/modules/user/user.js
+0 6 0 39600 0 0
+/admin/structure/field-collections/field-articolo
+0 2 0 71510 0 0
+/core/themes/seven/css/components/form.css
+0 1 0 7064 0 0
+/admin/structure/views/ajax/display/clienti/page/style_plugin
+0 3 0 46155 0 0
+/js/admin_menu/cache/085294091d3ca41582da5da7f25ccb0c
+0 1 16482032 4757 0 0
+/admin/structure/menu/manage/menu--none-/add
+0 3 0 70656 0 0
+/node/add
+0 6 0 55731 0 0
+/misc/ui/jquery.ui.tabs.css
+0 6 0 8298 0 0
+/sites/default/files/js/js_8aB_OkDtzCWLa5yD5uKyI446xAST-jy2mckkjVEqVs0.js
+0 9 0 49826 0 0
+/sites/default/files/css/css_guqhyh-voFhcXT_JOjaH77AhSgejKCMnNFpohW8OuxA.css
+0 1 0 4870 0 0
+/preventivo/pippo-franco-18102016-1476802796
+0 4 0 62968 0 0
+/admin/structure/field-collections/field-articolo/fields/field_quantit_/field-settings
+0 1 0 14035 0 0
+/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css
+0 10 0 1647 0 0
+/admin/structure/views/ajax/display/preventivi/page/path
+0 4 0 59043 0 0
+/js/admin_menu/cache/1b7608750d7fdd4c524dc9f3534a186c
+0 3 0 6098 0 0
+/sites/all/modules/ckeditor/ckeditor.config.js
+0 4 0 16420 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale_iva/field-settings
+0 1 16488704 24652 0 0
+/sites/all/modules/ctools/css/dropbutton.css
+0 59 0 72906 0 0
+/core/themes/seven/css/layout/layout.css
+0 1 0 83 0 0
+/sites/all/modules/ckeditor/images/buttons/bold.png
+1 1 0 813 0 0
+/node/1
+0 1 0 16811 0 0
+/node/2
+0 1 0 16679 0 0
+/node/3
+0 1 0 16382 0 0
+/core/misc/icons/505050/loupe.svg
+0 1 0 491 0 0
+/node/4
+0 1 0 17032 0 0
+/admin/structure/types/manage/cliente/fields
+0 42 0 2027620 0 0
+/node/5
+0 1 0 16382 0 0
+/sites/all/modules/ckeditor/images/buttons/hiddenfield.png
+1 1 0 823 0 0
+/node/6
+0 1 0 17100 0 0
+/field-collection/field-articolo/1
+0 2 0 21126 0 0
+/node/8
+0 1 0 16368 0 0
+/sites/all/modules/ckeditor/images/buttons/spellchecker.png
+1 1 0 836 0 0
+/admin/config/system/actions/configure/20
+0 1 0 12655 0 0
+/node/9
+0 1 0 17227 0 0
+/admin/structure/views/ajax/config-item/preventivicliente/page/relationship/field_cliente_target_id
+0 3 0 63711 0 0
+/sites/all/modules/module_filter/css/module_filter_tab.css
+0 66 0 420290 0 0
+/js/admin_menu/cache/c9949c0816e0a1f58f6c752942fd9f5c
+0 2 0 5078 0 0
+/admin/structure/types/add
+0 5 0 465123 0 0
+/themes/bartik/css/print.css
+0 25 0 8528 0 0
+/js/admin_menu/cache/4a4cd77e643e91e06799499b5615b90b
+0 1 0 4540 0 0
+/core/themes/stable/css/system/components/autocomplete-loading.module.css
+0 1 0 611 0 0
+/modules/toolbar/toolbar.css
+0 3 0 10128 0 0
+/sites/all/themes/adminimal_theme/js/adminimal_theme.js
+0 479 0 331578 0 0
+/js/admin_menu/cache/4f3ef10a61e32ba973ff190edb8933e0
+0 1 0 4535 0 0
+/batch
+0 44 0 238948 0 0
+/core/themes/stable/images/core/icons/5181c6/twistie-down.svg
+0 1 0 220 0 0
+/sites/all/libraries/yui/build/editor/assets/skins/sam/editor.css
+0 3 0 48790 0 0
+/js/admin_menu/cache/f9e452a3b53caa73299be5069434ea5a
+0 1 0 3016 0 0
+/admin/config/regional/currency-exchange/fixed
+0 1 0 8713 0 0
+/core/themes/classy/css/components/textarea.css
+0 1 0 169 0 0
+/modules/overlay/overlay-parent.css
+0 1 0 1122 0 0
+/toolbar/subtrees/789EFryb_EgH2kBIos7RZrS91LA47UaHtLNVwDNvcC8
+0 1 0 49890 0 0
+/admin/structure/views/ajax/add-item/preventivicliente/block_1/argument
+0 8 0 568350 0 0
+/misc/progress.gif
+1 3 0 17616 0 0
+/sites/all/modules/ckeditor/images/buttons/flash.png
+1 1 0 1038 0 0
+/js/admin_menu/cache/d484d6ebc9c534a9972e501ed4da07d6
+0 1 0 3781 0 0
+/admin/structure/views/ajax/display/clienti/page/title
+0 2 0 30604 0 0
+/user
+0 8 0 70826 0 0
+/modules/contextual/contextual.js
+0 14 0 3608 0 0
+/preventivo/nodefield-clienteoriginaltitle-10122016-1904
+0 1 0 18699 0 0
+/admin/structure/field-collections/field-articolo/fields/field_descrizione/field-settings
+0 3 0 45523 0 0
+/misc/ui/jquery.ui.tabs.min.js
+0 2 0 23256 0 0
+/toolbar/subtrees/EMDVP1SUAtfMfaOGRAbhTY4wh4omUcTKpTOPvBqL1TA
+0 1 0 49962 0 0
+/sites/all/modules/ckeditor/images/buttons/bgcolor.png
+1 1 0 906 0 0
+/admin/structure/views/view/preventivi/edit/page
+0 2 0 81092 0 0
+/cliente/francesco-dattolo
+0 1 16483600 11685 0 0
+/core/themes/classy/css/components/inline-form.css
+0 1 0 741 0 0
+/modules/toolbar/toolbar.png
+1 1 0 558 0 0
+/admin/structure/views/ajax/config-item/preventivicliente/block_1/empty/messages
+0 3 0 64699 0 0
+/admin/config/system/actions/configure/JIi5RLlNDynoiVXqQptABj-TDd1DZTve7v7eJS4q6Ww
+0 1 0 12794 0 0
+/sites/default/files/js/js_MMAt9CVQ1j12p5RLVD1PXieUFMryNhxy-ub5eg0969c.js
+0 1 0 94821 0 0
+/js/admin_menu/cache/a9056dd81722dcf40232430d567d3655
+0 1 0 4627 0 0
+/sites/all/modules/ctools/css/export-ui-list.css
+0 7 0 6062 0 0
+/sites/all/modules/ckeditor/images/buttons/numberedlist.png
+1 1 0 645 0 0
+/core/themes/seven/css/components/skip-link.css
+0 1 0 495 0 0
+/themes/seven/images/task-item.png
+1 2 0 210 0 0
+/core/modules/ckeditor/js/plugins/drupalimagecaption/plugin.js
+0 2 0 24560 0 0
+/admin/structure/menu/item/536/delete
+0 1 0 9143 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 6 0 1080 0 0
+/misc/autocomplete.js
+0 48 0 92686 0 0
+/preventivo/francesco-dattolo-10132016-1638
+0 21 0 328009 0 1
+/sites/all/modules/ckeditor/images/buttons/blockquote.png
+1 1 0 925 0 0
+/themes/seven/images/add.png
+1 4 0 160 0 0
+/node/31/delete
+0 1 0 9562 0 0
+/sites/all/themes/adminimal_theme/css/images/config/people-medium.png
+1 1 0 2268 0 0
+/cliente/pippo-franco
+0 28 0 295801 0 1
+/js/admin_menu/cache/25dff825ee0fa8d975a94ea0e3d0cb66
+0 2 16488000 9658 0 0
+/admin/structure/views/ajax/display/preventivi/page/access_options
+0 2 0 43178 0 0
+/core/themes/seven/js/mobile.install.js
+0 1 0 893 0 0
+/sites/all/modules/adminimal_admin_menu/images/menu-arrows.svg
+0 3 0 751 0 0
+/sites/all/libraries/yui/build/editor/assets/skins/sam/blankimage.png
+1 1 0 2314 0 0
+/sites/all/modules/print/print_pdf/icons/pdf_icon.png
+1 2 0 1036 0 0
+/core/misc/form.js
+0 1 0 8744 0 0
+/sites/all/themes/adminimal_theme/js/jRespond.js
+0 479 0 640107 0 0
+/core/themes/stable/images/core/icons/bebebe/person.svg
+0 9 0 575 0 0
+/cliente/ernesto-spara-lesto
+0 1 0 19110 0 0
+/misc/collapse.js
+0 83 0 166150 0 0
+/themes/bartik/screenshot.png
+1 3 0 19658 0 0
+/core/themes/classy/css/components/tablesort.css
+0 1 0 126 0 0
+/admin/structure/types/manage/cliente/fields/field_cf_p_iva/field-settings
+0 1 0 11687 0 0
+/sites/all/modules/ckeditor/images/buttons/templates.png
+1 1 0 639 0 0
+/core/modules/ckeditor/js/plugins/drupalimage/icons/drupalimage.png
+1 2 0 940 0 0
+/misc/grippie.png
+1 44 0 1060 0 0
+/js/admin_menu/cache/ea65ee788992598349ab8e4357ce49bb
+0 18 0 790 0 1
+/core/modules/ckeditor/css/plugins/drupalimagecaption/ckeditor.drupalimagecaption.css
+0 1 0 563 0 0
+/admin/structure/types/manage/cliente/fields/field_ragione_sociale
+0 1 0 18960 0 0
+/core/themes/stable/images/core/icons/787878/pencil.svg
+0 1 0 442 0 0
+/core/themes/classy/css/components/details.css
+0 1 0 492 0 0
+/core/themes/seven/css/components/page-title.css
+0 1 0 112 0 0
+/core/themes/seven/css/theme/maintenance-page.css
+0 1 0 3625 0 0
+/admin/structure/views/ajax/config-item/clienti/page/filter/type
+0 2 0 37112 0 0
+/admin/structure/views/view/preventivicliente
+0 5 0 435637 0 0
+/sites/all/modules/ckeditor/images/buttons/justifyright.png
+1 1 0 554 0 0
+/preventivo/francesco-dattolo-10132016-1418
+0 34 0 395376 0 0
+/modules/filter/filter.admin.js
+0 1 0 1580 0 0
+/admin/appearance/install
+0 2 0 17188 0 0
+/core/themes/stable/css/system/components/tabledrag.module.css
+0 1 0 1840 0 0
+/modules/user/user.permissions.js
+0 15 0 40845 0 0
+/misc/timezone.js
+0 2 0 5116 0 0
+/admin/reports/updates
+0 2 0 78296 0 0
+/core/themes/classy/css/components/icons.css
+0 1 0 421 0 0
+/preventivo/francesco-dattolo-18102016-1476804603
+0 8 0 117998 0 0
+/js/admin_menu/cache/3c2ffe6d0b5604ac5dd78e3970c1b5ed
+0 1 0 434 0 0
+/core/themes/stable/images/core/icons/787878/barchart.svg
+0 9 0 428 0 0
+/js/admin_menu/cache/78a595bb49f563b71b04fb5038a4a05e
+0 1 16490576 4814 0 0
+/core/themes/stable/css/system/components/js.module.css
+0 1 0 402 0 0
+/admin/structure/types/manage/preventivo/fields/field_codice
+0 1 0 18601 0 0
+/admin/modules
+0 165 0 25525638 3 3
+/print/preventivo/michele-scamarra-14102016-1476429018
+0 2 0 15348 0 0
+/admin/structure/block/manage/menu/menu--none-/configure
+0 3 0 64556 0 0
+/sites/default/files/js/js_Sv4DYJgEa5U0xLvFecid1wIg8Y17Kb236gfAQpBuo2w.js
+0 1 0 117732 0 0
+/current-dateshortpreventivocurrent-dateshortcurrent-dateshort/nodefield-clienteoriginaltitle
+0 1 0 18981 0 0
+/core/themes/seven/css/components/entity-meta.css
+0 1 0 1443 0 0
+/admin/reports/dblog/event/69
+0 1 0 55312 0 0
+/sites/all/modules/adminimal_admin_menu/images/shortcut.png
+1 30 0 5912 0 0
+/sites/all/themes/adminimal_theme/css/images/config/media-medium.png
+1 1 0 2197 0 0
+/admin/structure/types/manage/preventivo/fields/field_articolo/widget-type
+0 8 0 86223 0 0
+/sites/all/modules/ckeditor/images/buttons/textarea.png
+1 1 0 677 0 0
+/sites/all/modules/ckeditor/images/buttons/cut.png
+1 1 0 1031 0 0
+/sites/all/modules/views/js/jquery.ui.dialog.patch.js
+0 23 0 13860 0 0
+/sites/all/modules/ckeditor/includes/jqueryUI/sort.js
+0 2 0 26276 0 0
+/sites/all/modules/ckeditor/images/buttons/preview.png
+1 1 0 855 0 0
+/sites/all/modules/ckeditor/images/buttons/checkbox.png
+1 1 0 756 0 0
+/sites/all/themes/adminimal_theme/skins/alternative/alternative.js
+0 2 0 0 0 0
+/core/themes/classy/css/components/pager.css
+0 1 0 203 0 0
+/core/themes/stable/images/core/icons/787878/move.svg
+0 1 0 581 0 0
+/admin/structure/field-collections/field-articolo/fields/field_sconto
+0 2 0 42401 0 0
+/admin/structure/views/view/preventivi/edit
+0 11 0 760422 1 0
+/admin/structure/types/manage/cliente/fields/field_cognome
+0 2 0 35767 0 0
+/sites/default/files/js/js_x2DalXIiMdBXoVSLSvM1XyTKr1SUWF3wiHBmY2Rmeqs.js
+0 1 0 97284 0 0
+/sites/all/modules/wysiwyg/editors/js/yui.js
+0 3 0 10310 0 0
+/sites/default/files/js/js_GaJEkzXalsdiBciN7hRydNjtgl9Eae8UISLu1tlvMoA.js
+0 1 0 97826 0 0
+/sites/default/files/js/js_fhRFcDUK9WLgiqQ3iUZ324Bp8riDn4MhxyG2_NSPoNs.js
+0 1 0 99968 0 0
+/print/preventivo/francesco-dattolo-10132016-0959
+0 2 0 12530 0 1
+/sites/default/files/languages/it_hovR4FGOPKItgErPbHkkUUGrF3F6Je4IF1Glnf_5xLI.js
+0 1 0 2912 0 0
+/admin/structure/views/ajax/config-item/preventivi/page/filter/type
+0 2 0 54650 0 0
+/core/themes/classy/css/components/button.css
+0 1 0 204 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente/field-settings
+0 14 0 196411 0 0
+/admin/people/create
+0 2 0 29100 0 0
+/sites/all/modules/module_filter/js/module_filter_tab.js
+0 66 0 1236885 0 0
+/admin/config/content/token_insert
+0 8 0 1134453 0 0
+/js/admin_menu/cache/f6279e342919ec56a52b4638e808a9c2
+0 1 0 4698 0 0
+/admin/structure/menu/item/219/edit
+0 2 0 41094 0 0
+/preventivo/francesco-dattolo-10132016-1209
+0 20 0 228352 0 0
+/core/themes/stable/images/core/icons/787878/orgchart.svg
+0 9 0 857 0 0
+/sites/all/modules/references_dialog/css/references-dialog-admin.css
+0 69 0 40900 0 0
+/basic-page/dashboard
+0 3 0 36226 0 0
+/admin/config/content/wysiwyg/profile/filtered_html/delete
+0 1 0 9601 0 0
+/sites/default/files/css/css_DImuuvc9S8V88m4n2WP6xWYIYqktcP21urgDq7ksjK8.css
+0 1 0 4140 0 0
+/js/admin_menu/cache/0ac4e85d2697dec39e48f7affd24212d
+0 1 0 4573 0 0
+/sites/default/files/js/js_ZMvXAEfC7Ktl--AtV3rbR9sn0jXLK1L72VmZSGtfdAk.js
+0 1 0 93702 0 0
+/ckeditor/xss
+0 28 0 1691 0 1
+/core/themes/stable/css/system/components/progress.module.css
+0 1 0 825 0 0
+/admin/structure/types
+0 30 0 1371447 0 0
+/sites/all/modules/admin_menu/admin_menu.js
+0 313 0 1410705 0 0
+/admin/appearance
+0 22 0 434968 1 0
+/sites/all/modules/adminimal_admin_menu/images/home.svg
+0 30 0 3324 0 0
+/preventivo/francesco-dattolo-13102016-1476375103
+0 1 0 16262 0 0
+/sites/all/modules/wysiwyg/editors/css/openwysiwyg.css
+0 1 0 177 0 0
+/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css
+0 2 0 548 0 0
+/admin/appearance/settings
+0 1 0 15271 0 0
+/admin/structure/menu/manage/main-menu/add
+0 3 0 76984 0 0
+/js/admin_menu/cache/a3a0959c8f616714590538f341028876
+0 1 0 2831 0 0
+/themes/bartik/css/style.css
+0 25 0 425126 0 0
+/admin/structure/types/manage/cliente/fields/node.cliente.field_nome
+0 1 0 58426 0 0
+/admin/structure/types/manage/preventivo/fields/field_codice/delete
+0 2 0 20564 0 0
+/admin/config/content/formats
+0 2 0 76461 0 0
+/sites/default/files/css/css_RqaU6sUiEGBz0nE_pZB3CceNJ2ySK8UgMjZlsG-r9gg.css
+0 1 0 12101 0 0
+/printpdf/basic-page/dashboard
+0 1 0 137 0 0
+/sites/all/themes/adminimal_theme/css/mobile.css
+0 430 0 569319 0 0
+/sites/all/themes/adminimal_theme/css/images/x-white.png
+1 6 0 6174 0 0
+/preventivi
+0 81 0 1000541 1 2
+/admin/structure/types/manage/preventivo/fields/field_articolo
+0 12 0 263077 0 1
+/sites/default/files/js/js_P0_Mdb1AZreUIM_9B_oCKO0OZ7FbG4LGHYLczpmpxQY.js
+0 1 0 99810 0 0
+/admin/structure/views/view/preventivi/delete
+0 1 0 9042 0 0
+/misc/ui/jquery.ui.accordion.min.js
+0 1 0 8998 0 0
+/sites/default/files/languages/it_wBS_FO7ig67-zkDaWf9FvMgkEy8qWyOw0xVa-ik0wDw.js
+0 11 0 16429 0 0
+/admin/structure/views/ajax/display/preventivicliente/block_1/title
+0 2 0 32354 0 0
+/sites/all/modules/views/css/views-admin.ctools.css
+0 22 0 92928 0 0
+/core/themes/stable/images/core/icons/e32700/error.svg
+0 1 0 679 0 0
+/sites/default/files/css/css__OfYR6nHfN8M1D36-1UqDpP5hbHLn7gVVBx3V2KpHks.css
+0 2 0 6484 0 0
+/admin/structure/views/ajax/display/preventivi/page/menu
+0 2 0 35716 0 0
+/admin/structure/trigger/node
+0 1 0 17318 0 0
+/core/themes/classy/css/components/messages.css
+0 1 0 1917 0 0
+/sites/all/modules/ckeditor/images/buttons/find.png
+1 1 0 980 0 0
+/admin/structure/block/manage/block/1/delete
+0 1 0 9294 0 0
+/sites/all/modules/references_dialog/js/references-dialog-child.js
+0 3 0 1968 0 0
+/admin/config/regional/currency-exchange
+0 1 0 12274 0 0
+/sites/all/modules/field_group/field_group.field_ui.js
+0 48 0 169752 0 0
+/sites/all/libraries/yui/build/editor/assets/skins/sam/editor-sprite.gif
+1 1 0 5690 0 0
+/admin/structure/types/manage/preventivo/fields/field_articolo/field-settings
+0 8 0 241706 0 0
+/sites/default/files/css/css_kUdon--KXV4hk_pmyRGfvpAwKKJ6-0JY7RIJW4yg_dE.css
+0 1 0 4684 0 0
+/user/login
+0 6 0 54816 0 1
+/core/themes/stable/images/core/icons/787878/push-up.svg
+0 1 0 394 0 0
+/core/themes/stable/images/core/icons/bebebe/hamburger.svg
+0 9 0 510 0 0
+/misc/ui/jquery.ui.draggable.min.js
+0 40 0 222624 0 0
+/js/admin_menu/cache/bc2848ee84e2ce53e557747f327fbf44
+0 2 0 4242 0 0
+/themes/seven/images/task-check.png
+1 2 0 522 0 0
+/sites/all/libraries/yui/build/editor/editor-min.js
+0 3 0 287978 0 0
+/sites/default/files/css/css_jflvgLgO4vaS0LZmzPduGTgks0HtWkXmarCACLVmnck.css
+0 10 0 15066 0 0
+/sites/all/modules/ckeditor/images/buttons/creatediv.png
+1 1 0 862 0 0
+/themes/seven/images/list-item.png
+1 1 0 195 0 0
+/sites/default/files/js/js_gSUHYaQjdcre6EQl6a9QjBPdptUI02rc2Xep91ZuaXM.js
+0 1 0 95302 0 0
+/sites/default/files/languages/it_FzWU1mx0Rh3Rd9QUCEYCTTlo1UWB1x4oWvOCHPS9g8A.js
+0 1 0 1780 0 0
+/sites/all/modules/views/images/close.png
+1 1 0 227 0 0
+/admin/structure/types/manage/cliente/fields/node.cliente.field_cognome
+0 1 0 58498 0 0
+/admin/config/user-interface/print/pdf/tcpdf
+0 2 0 23617 0 0
+/core/themes/seven/css/components/dropbutton.component.css
+0 1 0 10734 0 0
+/misc/menu-expanded.png
+1 49 0 1166 0 0
+/admin/structure/field-collections/field-articolo/fields/field_sconto/field-settings
+0 1 16489920 13942 0 0
+/js/admin_menu/cache/5c5aebf35511a67632668442b4ed9e6d
+0 12 0 23175 0 0
+/sites/all/libraries/openwysiwyg/scripts/wysiwyg.js
+0 1 0 91981 0 0
+/core/themes/stable/css/system/components/reset-appearance.module.css
+0 1 0 274 0 0
+/misc/ui/jquery.ui.button.css
+0 113 0 227332 0 0
+/sites/all/modules/ckeditor/images/buttons/spacer.png
+1 1 0 1233 0 0
+/admin/structure/views/ajax/display/clienti/page/display_title
+0 1 0 2746 0 0
+/node/31/edit
+0 1 0 18064 0 0
+/sites/all/modules/ckeditor/images/buttons/italic.png
+1 1 0 708 0 0
+/sites/all/libraries/yui/build/editor/assets/skins/sam/editor-knob.gif
+1 1 0 138 0 0
+/contextual/render
+0 2 0 6352 0 0
+/sites/all/themes/adminimal_theme/js/custom.js
+0 30 0 1336 0 0
+/modules/admin_toolbar/misc/icons/0074bd/chevron-right.svg
+0 1 0 347 0 0
+/misc/ui/jquery.ui.theme.css
+0 1 0 19143 0 0
+/modules/overlay/overlay-child.js
+0 1 0 6696 0 0
+/admin/structure/types/manage/preventivo/fields/field_descrizione
+0 2 0 36007 0 0
+/preventivo/francesco-dattolo-10132016-1253
+0 3 0 32629 0 0
+/admin/structure/views/view/preventivicliente/edit/block_1
+0 2 0 139868 0 0
+/preventivo/francesco-dattolo-10132016-1256
+0 15 0 171697 0 0
+/sites/all/modules/adminimal_admin_menu/images/menu.svg
+0 4 0 2720 0 0
+/admin/structure/field-collections/field-articolo/fields/field_prezzo
+0 7 0 135086 0 0
+/sites/all/modules/ckeditor/images/buttons/pagebreak.png
+1 1 0 602 0 0
+/field-collection/field-articolo/16/edit
+0 7 16486672 46003 0 0
+/modules/system/system.base.css
+0 589 0 917332 0 0
+/js/admin_menu/cache/146c23af84b29bfa9ab070d76c78d678
+0 1 0 4322 0 0
+/js/admin_menu/cache/d6f21a76d574e6681416ef4854e67005
+0 1 0 4151 0 0
+/sites/all/modules/ckeditor/images/buttons/justifyleft.png
+1 1 0 558 0 0
+/modules/node/node.js
+0 52 0 67326 0 0
+/sites/all/themes/adminimal_theme/css/images/config/services-small.png
+1 1 0 1436 0 0
+/core/themes/stable/css/system/components/details.module.css
+0 1 0 127 0 0
+/core/themes/classy/css/components/progress.css
+0 1 0 2067 0 0
+/js/admin_menu/cache/ff7bbf10c450b7ebfb96aea4108a9ccd
+0 1 0 4626 0 0
+/sites/default/files/languages/it_Gy4jITGs9oxzoBGzUl-R6TiO5ISZObmCjEMNi8ryUG8.js
+0 1 0 968 0 0
+/core/themes/stable/images/core/icons/787878/wrench.svg
+0 9 0 407 0 0
+/core/themes/stable/css/system/components/clearfix.module.css
+0 1 0 306 0 0
+/modules/dashboard/dashboard.js
+0 1 0 7096 0 0
+/sites/default/files/css/css_Szyrm2qNl6F1N_Qo0KpxSipuK1sjf4hu5cP1XQi5acs.css
+0 2 0 13766 0 0
+/core/themes/seven/css/components/tabs.css
+0 1 0 8514 0 0
+/modules/node/content_types.js
+0 22 0 26510 0 0
+/sites/all/modules/ckeditor/images/buttons/replace.png
+1 1 0 948 0 0
+/print/preventivo/francesco-dattolo-10132016-1638
+0 56 0 515212 0 0
+/sites/all/modules/wysiwyg/plugins/break/break.js
+0 2 0 4250 0 0
+/sites/all/modules/print/print_ui/css/print_ui.theme.css
+0 237 0 34572 0 0
+/admin/modules/list/confirm
+0 10 0 271615 0 0
+/sites/all/themes/adminimal_theme/skins/alternative/mac_os_x.css
+0 2 0 2860 0 0
+/core/themes/stable/images/core/throbber-inactive.png
+1 1 0 356 0 0
+/admin/update/ready
+0 3 0 34572 0 0
+/sites/all/libraries/yui/build/menu/assets/skins/sam/menu.css
+0 3 0 10070 0 0
+/core/themes/stable/css/system/components/sticky-header.module.css
+0 1 0 163 0 0
+/admin/structure/types/manage/cliente/fields/node.cliente.field_cognome/storage
+0 1 0 57925 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale/widget-type
+0 1 16485920 13246 0 0
+/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js
+0 9 0 662 0 0
+/admin/structure/block/manage/system/user-menu/configure
+0 1 0 22759 0 0
+/admin/structure/views/ajax/display/preventivi/page/display_title
+0 2 0 30108 0 0
+/sites/all/modules/adminimal_admin_menu/images/house.svg
+0 3 0 742 0 0
+/sites/default/files/js/js__SKatqg98g8ejW_tz1yScw-ZXQdAKyL2fOC00ikgCbc.js
+0 1 0 93957 0 0
+/admin/structure/types/manage/preventivo/fields/field_totale/delete
+0 4 0 51560 0 0
+/core/assets/vendor/ckeditor/skins/moono/icons.png
+1 1 0 7704 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente2/delete
+0 2 0 18844 0 0
+/js/admin_menu/cache/e6465511f5666a0d1bf65940b3a051b1
+0 1 0 3157 0 0
+/admin/structure/field-collections/field_articolo/display
+0 13 0 374495 0 0
+/preventivo/ernesto-spara-lesto-10122016-1910
+0 2 0 36679 0 0
+/sites/all/modules/ckeditor/images/buttons/source.png
+1 1 0 764 0 0
+/js/admin_menu/cache/1fd374741688787a7f086289f50db045
+0 6 0 4132 0 0
+/core/themes/seven/images/noise-low.png
+1 1 0 5154 0 0
+/admin/structure/views/view/preventivi/preview/page/ajax
+0 16 0 117514 0 0
+/sites/all/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.css
+0 38 0 65320 0 0
+/js/admin_menu/cache/e7b63bbcdf12407b86bb93d186519cd4
+0 3 0 7566 0 0
+/themes/seven/images/arrow-desc.png
+1 1 0 95 0 0
+/sites/all/modules/auto_nodetitle/auto_nodetitle.js
+0 20 0 11740 0 0
+/node/27/edit
+0 35 0 862900 0 1
+/misc/progress.js
+0 39 0 34232 0 0
+/core/themes/stable/css/system/components/tablesort.module.css
+0 1 0 373 0 0
+/sites/all/modules/ckeditor/images/buttons/indent.png
+1 1 0 711 0 0
+/node/10
+0 2 0 21146 0 0
+/node/11
+0 1 0 17102 0 0
+/preventivo/michele-scamarra-13102016-1476375363
+0 18 0 257655 0 0
+/sites/all/themes/adminimal_theme/skins/material/material.css
+0 163 0 1111462 0 0
+/misc/form.js
+0 117 0 147600 0 0
+/node/12
+0 1 0 16852 0 0
+/node/13
+0 3 0 50453 0 0
+/node/14
+0 20 0 279309 0 0
+/admin/config/search/path/settings
+0 1 0 28337 0 0
+/node/1/edit
+0 2 0 46968 0 0
+/sites/default/files/css/css_UjMVorzoRZJEnKke8WwU2AeTh4tBwEmDkHc0k6r4GYE.css
+0 2 0 21748 0 0
+/sites/all/modules/ckeditor/css/ckeditor.admin.css
+0 2 0 6154 0 0
+/misc/ui/jquery.ui.accordion.css
+0 1 0 1066 0 0
+/modules/menu/menu.css
+0 8 0 936 0 0
+/admin/structure/menu/manage/main-menu
+0 9 0 545727 0 0
+/core/themes/seven/css/components/buttons.css
+0 1 0 5342 0 0
+/sites/all/themes/adminimal_theme/css/vertical-tabs.css
+0 78 0 150858 0 0
+/js/admin_menu/cache/d40d1e288815cf96fd49179a2f4307d8
+0 1 0 4186 0 0
+/misc/jquery.form.js
+0 32 0 109043 0 0
+/sites/all/modules/adminimal_admin_menu/images/square.png
+1 3 0 2892 0 0
+/sites/all/modules/menu_editor/menu_editor.css
+0 2 0 3044 0 0
+/core/themes/classy/css/components/tableselect.css
+0 1 0 302 0 0
+/node/32/edit
+0 1 0 18530 0 0
+/admin/structure/types/manage/preventivo/fields/field_total/field-settings
+0 3 0 64329 0 0
+/sites/all/themes/adminimal_theme/css/images/config/regional-small.png
+1 1 0 1533 0 0
+/misc/watchdog-ok.png
+1 1 0 375 0 0
+/node/28
+0 1 0 12547 0 0
+/admin/reports/dblog
+0 9 0 387936 0 0
+/admin/config/regional/language
+0 5 0 65528 0 0
+/sites/default/files/css/css_qvilWbcGtava5ggcA95u9doFYPXLhVP7yjO4BiGNz9Q.css
+0 1 0 4235 0 0
+/admin/reports/updates/update
+0 2 0 25981 0 0
+/js/admin_menu/cache/0e002db73727703507f0218f553a15e2
+0 9 16487280 14382 0 0
+/admin/structure/block/add
+0 4 0 104645 0 0
+/sites/default/files/languages/it_PRQK0Ov0fj8XjBTVQ7Nb4svyWBxtPcwmGoShAveX1t0.js
+0 1 0 306 0 0
+/js/admin_menu/cache/2c70db7cfbbdd09069484c48a56919b6
+0 2 0 3078 0 0
+/sites/all/modules/views/images/sprites.png
+1 2 0 3554 0 0
+/core/themes/classy/css/components/form.css
+0 1 0 2178 0 0
+/sites/all/modules/token/token.js
+0 25 0 72325 0 0
+/modules/comment/comment-node-form.js
+0 16 0 13650 0 0
+/sites/all/modules/ckeditor/plugins/drupalbreaks/plugin.js
+0 1 0 5673 0 0
+/core/themes/seven/css/components/node.css
+0 1 0 38 0 0
+/js/admin_menu/cache/79d84527ebb33280732e07034cced10a
+0 1 0 4681 0 0
+/admin/index
+0 41 0 1181616 0 0
+/admin/structure/types/manage/preventivo/display/print
+0 16 0 467163 0 0
+/modules/block/block.css
+0 11 0 8173 0 0
+/sites/all/themes/adminimal_theme/css/style.css
+0 430 0 7060821 0 0
+/sites/all/modules/token_insert_entity/plugins/rendered_entity/rendered_entity.js
+0 2 0 12610 0 0
+/sites/default/files/js/js_xwzT1aV9OLq5vZavEaUgMRxIzp7xt7998SNyB6bh62o.js
+0 1 0 87825 0 0
+/misc/ui/jquery.ui.button.min.js
+0 40 0 79968 0 0
+/js/admin_menu/cache/e1524c658aca08c3373d8e6e15d2b2e9
+0 1 0 3766 0 0
+/themes/bartik/images/tabs-border.png
+1 8 0 83 0 0
+/admin/structure/field-collections/field-articolo/fields/field_descrizione/delete
+0 1 16482320 12953 0 0
+/js/admin_menu/cache/5a2e9ad96f777a008088700b7af2c401
+0 1 0 4562 0 0
+/admin/structure/field-collections
+0 10 0 88808 0 0
+/sites/all/modules/ctools/js/auto-submit.js
+0 7 0 23422 0 0
+/admin/structure/types/manage/preventivo/fields/field_total/widget-type
+0 1 0 10626 0 0
+/js/admin_menu/cache/c4f1061443cde1643fa878c53b075fb4
+0 2 0 9284 0 0
+/sites/all/modules/ckeditor/includes/uicolor/yui/yui.js
+0 1 0 165145 0 0
+/admin/reports/views-plugins
+0 1 0 9424 0 0
+/sites/all/modules/adminimal_admin_menu/js/slicknav/jquery-no-conflict.slicknav.js
+0 275 0 1204695 0 0
+/admin/structure/types/manage/preventivo/fields/field_articolo/delete
+0 2 0 20628 0 0
+/js/admin_menu/cache/3dd2c7f203520f6afc3e0c9b4b544be0
+0 2 0 3765 0 0
+/modules/toolbar/toolbar.js
+0 3 0 9060 0 0
+/js/admin_menu/cache/b22fd3cdf1dcfb4737264750269bf30e
+0 3 16488416 4801 0 0
+/admin/structure/menu/manage/menu--none-/edit
+0 8 0 111639 0 0
+/modules/system/system.theme.css
+0 587 0 619737 0 0
+/sites/all/modules/module_filter/js/update_status.js
+0 1 0 4057 0 0
+/sites/all/modules/ckeditor/images/buttons/selectall.png
+1 1 0 665 0 0
+/sites/all/modules/ctools/js/dependent.js
+0 7 0 65961 0 0
+/admin/structure/types/manage/cliente/fields/field_indirizzo
+0 1 0 21429 0 0
+/admin/structure/menu/manage/menu--none-
+0 16 0 700421 0 0
+/admin/structure/menu/manage/menu--none-/poweredit
+0 3 0 156539 0 0
+/core/themes/classy/css/components/link.css
+0 1 0 217 0 0
+/sites/all/modules/token/jquery.treeTable.css
+0 22 0 27896 0 0
+/sites/all/themes/adminimal_theme/css/images/warning.svg
+0 4 0 8256 0 0
+/core/misc/icons/004875/twistie-down.svg
+0 1 0 220 0 0
+/admin/config/system/actions/manage
+0 2 0 26186 0 0
+/core/misc/favicon.ico
+0 9 0 48870 0 0
+/core/misc/icons/333333/caret-down.svg
+0 9 0 202 0 0
+/core/assets/vendor/modernizr/modernizr.min.js
+0 9 0 4680 0 0
+/core/themes/seven/css/components/tablesort-indicator.css
+0 1 0 568 0 0
+/print/preventivo/francesco-dattolo-20102016-1476974966
+0 6 16484992 48590 0 0
+/js/admin_menu/cache/736824c1e430380441c0f6d9bdb73ec0
+0 1 0 3022 0 0
+/core/themes/seven/css/components/breadcrumb.css
+0 1 0 94 0 0
+/sites/all/modules/token/arrow-down.png
+1 2 0 236 0 0
+/core/authorize.php/core/authorize.php
+0 5 0 380 0 0
+/core/themes/seven/css/components/field-ui.css
+0 1 0 848 0 0
+/js/admin_menu/cache/247cab0086b6a6977c37a4a15f384eee
+0 1 0 4309 0 0
+/sites/all/modules/ctools/css/ctools.css
+0 570 0 77877 0 0
+/admin/structure/types/manage/preventivo/fields/field_descrizione/delete
+0 1 0 10362 0 0
+/sites/all/modules/ckeditor/images/buttons/justifyblock.png
+1 1 0 496 0 0
+/core/themes/stable/css/system/system.maintenance.css
+0 1 0 896 0 0
+/admin/config/search/path
+0 3 0 32705 0 0
+/references-dialog/redirect/10/node
+0 1 0 5308 0 0
+/admin/structure/types/manage/cliente/fields/node.cliente.field_nome/storage
+0 1 0 57871 0 0
+/admin/structure/views/ajax/display/preventivi/page/title
+0 2 0 30035 0 0
+/sites/all/modules/ckeditor/images/buttons/underline.png
+1 1 0 747 0 0
+/node/28/edit
+0 1 0 41382 0 0
+/sites/all/modules/ckeditor/images/buttons/specialchar.png
+1 1 0 970 0 0
+/modules/dashboard/dashboard.css
+0 1 0 2435 0 0
+/js/admin_menu/cache/132d4e2f92f845d75c44c6e061200114
+0 1 0 4573 0 0
+/sites/default/files/js/js_YaxAn_K-DG_PNX5N7U2-uiAwCmphyyo5l87G0FuP_kE.js
+0 1 0 97751 0 0
+/preventivo/francesco-dattolo-20102016-1476974966
+0 12 16484736 162644 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-bg_flat_100_333333_40x100.png
+1 6 0 1080 0 0
+/core/themes/stable/css/system/components/position-container.module.css
+0 1 0 95 0 0
+/preventivo/francesco-dattolo-20102016-1476975818
+0 25 16486976 486787 0 0
+/admin/structure/views/view/preventivi
+0 5 0 351675 0 0
+/admin/structure/types/manage/cliente/display
+0 21 0 1008834 0 0
+/sites/all/modules/views/css/views-admin.theme.css
+0 22 0 441034 0 0
+/core/misc/drupalSettingsLoader.js
+0 1 0 698 0 0
+/sites/all/modules/print/print_mail/icons/mail_icon.png
+1 50 0 849 0 0
+/sites/default/files/languages/it_SW_5vo_it7o61CNdrn6duEzHH5u6qdE86S02eG5j4-M.js
+0 188 0 122120 0 0
+/js/admin_menu/cache/8822c95669dd50dc353797b341f7ca27
+0 3 0 5664 0 0
+/sites/all/themes/adminimal_theme/css/ckeditor-adminimal.css
+0 430 0 580530 0 0
+/admin/people/permissions
+0 12 0 2130090 0 0
+/sites/all/modules/module_filter/css/dynamic_position.css
+0 66 0 30485 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente
+0 21 0 469180 0 0
+/node/33/edit
+0 8 0 283478 0 0
+/core/modules/filter/css/filter.caption.css
+0 1 0 584 0 0
+/sites/default/files/js/js_ilZBCgRjot-xqAoCC0BthqQIQwllYsbRvBju173tAAg.js
+0 1 0 98497 0 0
+/references-dialog/redirect/28/node
+0 1 0 7481 0 0
+/sites/all/modules/ckeditor/includes/ckeditor.utils.js
+0 15 0 134350 0 0
+/sites/all/modules/admin_menu/admin_menu.admin.js
+0 15 0 37395 0 0
+/sites/all/modules/ckeditor/images/buttons/form.png
+1 1 0 590 0 0
+/sites/default/files/js/js_UyjeSMmFHL1cKJh8TW28-eQAvFBysgnFtrZTXrSFaks.js
+0 1 0 101996 0 0
+/install.php
+0 10 0 91764 0 0
+/js/admin_menu/cache/0690f6ebae7051d059ab8814c38bcba2
+0 3 0 4114 0 0
+/misc/menu-collapsed.png
+1 124 0 1050 0 0
+/field-collection/field-articolo/18/edit
+0 2 16492032 34557 0 0
+/sites/all/modules/views/js/ajax.js
+0 6 0 53958 0 0
+/js/admin_menu/cache/239475e9613bfe2c3dd0cdf68a354eb5
+0 1 0 3273 0 0
+/preventivo/francesco-dattolo-131310102016201620162016
+0 2 0 32219 0 0
+/misc/jquery.js
+0 486 0 1493438 0 0
+/core/themes/stable/css/system/components/resize.module.css
+0 1 0 270 0 0
+/themes/bartik/css/colors.css
+0 25 0 17056 0 0
+/core/themes/bartik/logo.svg
+0 1 0 3810 0 0
+/sites/all/themes/adminimal_theme/css/reset.css
+0 430 0 327117 0 0
+/admin/config/development/logging
+0 2 0 20591 0 0
+/sites/all/modules/views/css/views-admin.seven.css
+0 8 0 86432 0 0
+/admin/reports
+0 1 0 8934 0 0
+/misc/tableheader.js
+0 147 0 650260 0 0
+/sites/all/modules/token/token.css
+0 22 0 8294 0 0
+/js/admin_menu/cache/a8c3ab6f9364649e479c2b7cea8a690a
+0 1 0 3860 0 0
+/themes/seven/vertical-tabs.css
+0 60 0 110998 0 0
+/admin/config/regional/settings
+0 2 0 125120 0 0
+/core/modules/system/js/system.js
+0 1 0 2585 0 0
+/admin/config/system/actions
+0 3 0 36875 0 0
+/sites/all/modules/wysiwyg/wysiwyg.init.js
+0 4 0 1794 0 0
+/sites/all/modules/admin_menu/admin_menu.uid1.css
+0 204 0 16878 0 0
+/themes/seven/logo.png
+1 2 0 7810 0 0
+/admin/structure/types/manage/preventivo/fields/field_cliente/delete
+0 4 0 37896 0 0
+/admin/structure/views
+0 15 0 444177 0 1
+/dashboard
+0 149 0 1587932 0 2
+/js/admin_menu/cache/7fa54f61e73ebe72f218cdb0d9d82d33
+0 1 0 4628 0 0
+/misc/message-24-warning.png
+1 2 0 753 0 0
+/admin/config/regional/currency_locale_pattern
+0 1 0 330566 0 0
+/sites/all/modules/ckeditor/images/buttons/link.png
+1 1 0 656 0 0
+/js/admin_menu/cache/0b33b4201f5875aaa5e6cd86c83e249f
+0 1 0 403 0 0
+/misc/message-24-ok.png
+1 6 0 4232 0 0
+/js/admin_menu/cache/1acc6f63ecde631872bbb420ab773a92
+0 1 0 4622 0 0
+/misc/ui/jquery.ui.sortable.min.js
+0 1 0 23690 0 0
+/js/admin_menu/cache/3534393fda0551d9e97d2fe89e6d7924
+0 1 0 3908 0 0
+/sites/all/modules/ckeditor/images/buttons/save.png
+1 1 0 716 0 0
+/sites/all/modules/ckeditor/images/buttons/redo.png
+1 1 0 842 0 0
+/core/themes/seven/css/theme/install-page.css
+0 1 0 1325 0 0
+/core/themes/seven/css/base/typography.css
+0 1 0 648 0 0
+/sites/all/modules/ckeditor/images/buttons/showblocks.png
+1 1 0 701 0 0
+/admin/structure/types/manage/preventivo/fields/field_tipo/field-settings
+0 1 16483872 14997 0 0
+/js/admin_menu/cache/a4dac55871d6fd5dde679ec01db829d7
+0 1 0 4578 0 0
+/admin/structure/field-collections/field-articolo/fields/field_codice/widget-type
+0 1 0 10645 0 0
+/sites/default/files/js/js_C7F7rzWbWt8vk1g2zA3pHz6QYpKzj3KeiuEL7mvSJ28.js
+0 1 0 98704 0 0
+/js/admin_menu/cache/fd3bb352f656640c1a57c934fccb5059
+0 6 0 4642 0 0
+/js/admin_menu/cache/cbbd9d9ba52869ac3da8e5d17c410698
+0 4 16489216 9624 0 0
+/sites/all/themes/adminimal_theme/css/images/error.svg
+0 10 0 8984 0 0
+/admin/structure/views/ajax/config-item/preventivicliente/page/argument/field_cliente_target_id
+0 4 0 166879 0 0
+/sites/default/files/css/css_pdyP7iP-Bw6ldDrFZC_1GCNKUYxLXjwFYaXHiCe8p-4.css
+0 2 0 9354 0 0
+/sites/all/modules/print/print_mail/css/print_mail.theme.css
+0 1 0 125 0 0
+/sites/default/files/languages/it_Wbfd9azn8aiqwRQ_UpNmoDQb87fO5FyoPagxSCgBfpA.js
+0 28 0 29712 0 0
+/token/tree
+0 2 0 321409 0 0
+/core/themes/classy/css/components/item-list.css
+0 1 0 546 0 0
+/admin/structure/field-collections/field-articolo/fields/field_prezzo/widget-type
+0 1 0 10637 0 0
+/themes/seven/style.css
+0 106 0 1328688 0 0
+/admin/help
+0 1 0 12980 0 0
+/modules/system/system.maintenance.css
+0 35 0 28385 0 0
+/preventivo/francesco-dattolo-20102016-1476974771
+0 4 16483456 52447 0 0
+/admin/config/content/formats/full_html
+0 2 0 80841 0 0
+/node/29/edit
+0 3 0 74843 0 0
+/sites/all/modules/ckeditor/images/buttons/textfield.png
+1 1 0 588 0 0
+/core/themes/bartik/css/base/elements.css
+0 1 0 2469 0 0
+/misc/throbber-active.gif
+1 9 0 11097 0 0
+/themes/seven/screenshot.png
+1 3 0 12298 0 0
+/core/misc/icons/e32700/error.svg
+0 1 0 679 0 0
+/misc/jquery.once.js
+0 484 0 56506 0 0
+/admin/config/regional/language/add
+0 1 0 20851 0 0
+/admin/structure/views/ajax/display/preventivicliente/block_1/access_options
+0 1 0 16103 0 0
+/core/assets/vendor/jquery-once/jquery.once.min.js
+0 1 0 868 0 0
+/admin/structure/types/manage/preventivo/fields/body/delete
+0 1 0 9101 0 0
+/js/admin_menu/cache/bd131cd13bb5a030fa3405b12415b5f7
+0 70 0 5488 0 0
+/sites/all/libraries/yui/build/element/element-min.js
+0 3 0 18712 0 0
+/sites/all/themes/adminimal_theme/css/images/ui-icons_888888_256x240.png
+1 1 0 4369 0 0
+/admin/modules/install
+0 40 0 560593 1 1
+/js/admin_menu/cache/8b5f2c6dc570d3bb838cbb152d69fd21
+0 1 0 3740 0 0
+/admin/config/user-interface/print/common
+0 3 0 54238 0 0
+/admin/structure/types/manage/cliente/fields/field_citt_/field-settings
+0 1 0 11611 0 0
+/js/admin_menu/cache/db0415e96d89c7a51a9737c959bc110f
+0 1 0 3272 0 0
+/token_insert_ckeditor/insert/token-insert-cke_2-dialog-container
+0 4 0 77162 0 0
+/sites/all/modules/ckeditor/images/buttons/subscript.png
+1 1 0 806 0 0
+/core/assets/vendor/jquery.cookie/jquery.cookie.min.js
+0 1 0 1300 0 0
+/admin/structure/types/manage/preventivo/fields/field_prezzo/field-settings
+0 1 0 11740 0 0
+/sites/all/modules/ckeditor/images/buttons/maximize.png
+1 1 0 921 0 0
+/node/34/edit
+0 7 0 228145 0 0
+/js/admin_menu/cache/c9975864ee839641590c98bb4b43f38d
+0 1 0 4294 0 0
+/field-collection/field-articolo/5/delete
+0 1 0 10877 0 0
+/sites/default/files/js/js_cceFzyzLOWHNpvqYNjZgBUv4kwqr-RX82dYrEwBkdSQ.js
+0 1 0 100550 0 0
+/admin/structure/field-collections/field-articolo/fields/field_quantit_
+0 2 0 42382 0 0
+/sites/all/modules/admin_menu/images/bkg-red.png
+1 2 0 236 0 0
+/core/themes/seven/css/components/tables.css
+0 1 0 2403 0 0
+/js/admin_menu/cache/24d44989252eea6f5e170f79295cbf7d
+0 1 0 4561 0 0
+/sites/default/files/languages/it_IpLzFyFf95NNZWQ7mR-zZ-AvplHGXCq2IgFVqbAOH1Y.js
+0 26 0 24560 0 0
+/modules/image/image.css
+0 1 0 225 0 0
+/sites/all/modules/admin_menu/admin_menu_toolbar/toolbar.png
+1 2 0 558 0 0
+/modules/filter/filter.css
+0 45 0 27690 0 0
+/sites/all/modules/ckeditor/includes/ckeditor.admin.js
+0 2 0 9228 0 0
+/core/themes/stable/images/core/icons/000000/wrench.svg
+0 1 0 407 0 0
+/sites/all/modules/pathauto/pathauto.js
+0 39 0 18272 0 0
+/admin/config/content/wysiwyg/profile/full_html/delete
+0 1 0 9553 0 0
+/preventivo/francesco-dattolo-10132016-0834
+0 4 0 53280 0 0
+/core/themes/stable/images/core/icons/bebebe/chevron-disc-left.svg
+0 9 0 435 0 0
+/core/modules/ckeditor/js/plugins/drupallink/icons/drupallink.png
+1 2 0 656 0 0
+/modules/menu/menu.js
+0 52 0 104790 0 0
+/sites/all/themes/adminimal_theme/images/x.svg
+0 3 0 2622 0 0
+/admin/dashboard
+0 1 0 10958 0 0
+/js/admin_menu/cache/4b9cf5678406bd8adad77507adefc73b
+0 1 0 4642 0 0
+/admin/config/user-interface/print/pdf/dompdf
+0 5 0 53726 0 0
+/preventivo/pippo-franco-18102016-1476795876
+0 2 0 30915 0 0
+/core/themes/seven/css/components/pager.css
+0 1 0 895 0 0
+/js/admin_menu/cache/349ecdf658fca9b988256470e2e8e9dd
+0 1 0 3072 0 0
+/sites/all/modules/wysiwyg/wysiwyg.js
+0 4 0 30351 0 0
+/core/themes/seven/css/components/menus-and-lists.css
+0 1 0 789 0 0
+/admin/structure/types/manage/preventivo/fields
+0 243 0 10828292 0 3
+/core/misc/feed.svg
+0 1 0 462 0 0
+/modules/system/system.messages.css
+0 587 0 160487 0 0
+/js/admin_menu/cache/3111d2c6595524bd1eef98e84561cdb8
+0 1 0 4625 0 0
+/admin/structure/types/manage/preventivo/display/full
+0 10 0 238377 0 0
+/admin/structure/menu/item/535/edit
+0 4 0 102419 0 0
+/js/admin_menu/cache/f5ed03feb92f94eea164da8027b7c4ac
+0 1 0 4545 0 0
+/filter/tips
+0 1 0 16523 0 0
+/themes/bartik/css/layout.css
+0 25 0 21242 0 0
+/preventivo/francesco-dattolo-18102016-1476806066
+0 6 0 86168 0 0
+/admin/config/development/maintenance
+0 4 0 52357 0 0
+/sites/default/files/languages/it_9UXbNZGpR40b_B52oSOzG0qUrXkRuMumefitLBEDvXE.js
+0 1 0 996 0 0
+/misc/ui/jquery.ui.core.css
+0 115 0 137146 0 0
+/js/admin_menu/cache/746b6e8cb6f78b8335efd4b8b0587d62
+0 1 0 4680 0 0
+/js/admin_menu/cache/042ce3089da7c8e1355d8fefaf21da58
+0 1 0 3015 0 0
+/sites/all/themes/adminimal_theme/css/images/config/search-medium.png
+1 1 0 2469 0 0
+/core/themes/stable/images/core/icons/bebebe/push-left.svg
+0 9 0 397 0 0
+/themes/seven/images/arrow-asc.png
+1 1 0 88 0 0
+/js/admin_menu/cache/6ee337234387763eb3fbea9a34ef696d
+0 1 0 3082 0 0
+/sites/all/modules/ckeditor/images/buttons/justifycenter.png
+1 1 0 609 0 0
+/admin/structure/views/view/preventivi/clone
+0 2 0 26446 0 0
+/sites/default/files/js/js_ed6w96R6xL3yDrHScYeLGBuYcvdcBR8F4uG7DfYdkvw.js
+0 1 0 156922 0 0
+/js/admin_menu/cache/88652584403352a64b7ff2984df6308b
+0 1 0 4586 0 0
+/sites/all/themes/adminimal_theme/images/list-item.png
+1 2 0 2484 0 0
+/core/themes/stable/css/system/components/fieldgroup.module.css
+0 1 0 95 0 0
+/admin/structure/menu/item/540/edit
+0 1 0 27912 0 0
+# End Of Table - urls
+# -sites- (monthly)
+host232-134-static.6-79-b.business.telecomitalia.it
+0 28305 12649 181298356 42 1476989425
+/preventivo/francesco-dattolo-20102016-1476982224
+google-proxy-66-249-93-22.google.com
+0 2 2 9640 1 1476989445
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+host232-134-static.6-79-b.business.telecomitalia.it
+0 5184 1894 23576169 4 1476989425
+/preventivo/francesco-dattolo-20102016-1476982224
+google-proxy-66-249-93-22.google.com
+0 2 2 9640 1 1476989445
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://preventivi.codice.cc/admin/structure/menu
+0 4
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/display/print
+0 67
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476974771
+0 7
+http://preventivi.codice.cc/modules/system/system.menus.css
+0 8
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields
+0 85
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1253
+0 39
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1256
+0 282
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_codice
+0 7
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/display/teaser
+0 11
+- (Direct Request)
+0 146
+http://preventivi.codice.cc/preventivo/michele-scamarra-14102016-1476432859
+0 214
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/node.cliente.body
+0 24
+http://preventivi.codice.cc/admin/config/regional/currency-exchange
+0 3
+http://preventivi.codice.cc/admin/config/content/formats/full_html
+0 9
+http://preventivi.codice.cc/admin/config/user-interface/print/pdf
+0 19
+http://preventivi.codice.cc/field-collection/field-articolo/4/delete
+0 2
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_codice
+0 5
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_cf_p_iva
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_total/field-settings
+0 6
+http://preventivi.codice.cc/admin/structure/types/add
+0 38
+http://preventivi.codice.cc/admin/people/permissions/4
+0 77
+http://preventivi.codice.cc/preventivo/francesco-dattolo-18102016-1476806066
+0 98
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_iva/widget-type
+0 4
+http://preventivi.codice.cc/cliente/francesco-dattolo
+0 1
+http://preventivi.codice.cc/admin/reports/fields
+0 6
+http://preventivi.codice.cc/field-collection/field-articolo/16/edit
+0 41
+http://preventivi.codice.cc/sites/default/files/css/css_0h4WCW9sfx8DlG04P-NleM2zll-xuQ0DEuh1nnw4FNw.css
+0 2
+http://preventivi.codice.cc/sites/all/modules/module_filter/css/modules.css
+0 1
+http://preventivi.codice.cc/preventivo/francesco-dattolo-131310102016201620162016
+0 2
+http://preventivi.codice.cc/admin/reports/dblog
+0 20
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_articolo/field-settings
+0 13
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_codice/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/menu/item/536/delete
+0 2
+http://preventivi.codice.cc/user/1
+0 35
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_codice/delete
+0 3
+http://preventivi.codice.cc/node/add/cliente
+0 278
+http://preventivi.codice.cc/core/themes/classy/css/components/form.css
+0 1
+http://preventivi.codice.cc/node/31/edit
+0 2
+http://preventivi.codice.cc/preventivo/michele-scamarra-14102016-1476429018
+0 8
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_total
+0 191
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_telfono
+0 8
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_tipo/field-settings
+0 2
+http://preventivi.codice.cc/sites/default/files/css/css_vAbXp5_sifoZwpLbiVPSo-Gwh0Do3hIM2EDqHbuoNWQ.css
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_provincia/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_indirizzo/field-settings
+0 2
+http://preventivi.codice.cc/preventivo/pippo-franco-18102016-1476795876
+0 4
+http://preventivi.codice.cc/user/password
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/display/print
+0 1
+http://preventivi.codice.cc/preventivo/michele-scamarra-14102016-1476434868
+0 61
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-14102016-1476435371
+0 2
+http://preventivi.codice.cc/node/1
+0 7
+http://preventivi.codice.cc/node/2
+0 6
+http://preventivi.codice.cc/node/4
+0 8
+http://preventivi.codice.cc/admin/structure/views/view/preventivi/clone
+0 5
+http://preventivi.codice.cc/node/5
+0 1
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476976327
+0 1932
+http://preventivi.codice.cc/node/6
+0 8
+http://preventivi.codice.cc/node/8
+0 31
+http://preventivi.codice.cc/node/9
+0 9
+http://preventivi.codice.cc/admin/config/content/wysiwyg/profile/full_html/delete
+0 2
+http://preventivi.codice.cc/preventivo/nodefield-clienteoriginaltitle-10122016-1904
+0 1
+http://preventivi.codice.cc/dashboard
+0 2324
+http://preventivi.codice.cc/node/27/edit
+0 587
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_iva/field-settings
+0 7
+http://preventivi.codice.cc/node/add/page
+0 9
+http://preventivi.codice.cc/core/themes/classy/css/components/messages.css
+0 2
+http://preventivi.codice.cc/admin/appearance/settings
+0 1
+http://preventivi.codice.cc/field-collection/field-articolo/add/node/27
+0 24
+http://preventivi.codice.cc/field-collection/field-articolo/add/node/29
+0 4
+http://preventivi.codice.cc/admin/structure/menu/manage/menu--none-
+0 105
+http://preventivi.codice.cc/admin/config/regional/translate/import
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale/delete
+0 9
+http://preventivi.codice.cc/node/32/edit
+0 22
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-18102016-1476804157
+0 1
+http://preventivi.codice.cc/cliente
+0 2
+http://preventivi.codice.cc/clienti
+0 144
+http://preventivi.codice.cc/admin/structure/menu/manage/menu--none-/poweredit
+0 9
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476981951
+0 1
+http://preventivi.codice.cc/admin/structure/block/manage/menu/menu--none-/configure
+0 6
+http://preventivi.codice.cc/admin/structure/field-collections/field_articolo/display
+0 22
+http://preventivi.codice.cc/admin/config/development/logging
+0 3
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_quantit_/field-settings
+0 2
+http://preventivi.codice.cc/admin/reports/status
+0 225
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_ragione_sociale
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_tipo
+0 2
+http://preventivi.codice.cc/admin/config/content/exclude-node-title
+0 1
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476981967
+0 84
+http://preventivi.codice.cc/field-collection/field-articolo/18/edit
+0 4
+http://preventivi.codice.cc/sites/all/modules/views/css/views-admin.theme.css
+0 5
+http://preventivi.codice.cc/preventivo/pippo-franco-18102016-1476797402
+0 5
+http://preventivi.codice.cc/admin/appearance
+0 104
+http://preventivi.codice.cc/node/28/edit
+0 5
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_indirizzo
+0 17
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/display/full
+0 21
+http://preventivi.codice.cc/admin/config/system/actions/configure/20
+0 2
+http://preventivi.codice.cc/admin/config/search/path/patterns
+0 22
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-0834
+0 41
+http://preventivi.codice.cc/node/33/edit
+0 18
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/display/teaser
+0 7
+http://preventivi.codice.cc/admin/config/people/accounts
+0 10
+http://preventivi.codice.cc/admin/structure/views/view/preventivi/edit/block
+0 4
+http://preventivi.codice.cc/admin/reports/fields/views-fields
+0 1
+http://preventivi.codice.cc/admin/config/content
+0 1
+http://preventivi.codice.cc/core/themes/seven/css/components/form.css
+0 1
+http://preventivi.codice.cc/themes/seven/style.css
+0 39
+http://preventivi.codice.cc/admin/reports/event/1221
+0 1
+http://preventivi.codice.cc/admin/reports/event/1224
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale_iva
+0 39
+http://preventivi.codice.cc/admin/config/content/wysiwyg/profile/full_html/edit
+0 2
+http://preventivi.codice.cc/admin/modules/list/confirm
+0 20
+http://preventivi.codice.cc/sites/all/themes/adminimal_theme/css/style.css
+0 284
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente/field-settings
+0 27
+http://preventivi.codice.cc/admin/content
+0 225
+http://preventivi.codice.cc/admin/reports/updates
+0 10
+http://preventivi.codice.cc/admin/structure/block/add
+0 17
+http://preventivi.codice.cc/modules/dblog/dblog.css
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/node.cliente.field_cognome
+0 2
+http://preventivi.codice.cc/modules/contextual/contextual.css
+0 14
+http://preventivi.codice.cc/node/29/edit
+0 21
+http://preventivi.codice.cc/admin/structure/menu/add
+0 4
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/add-field
+0 6
+http://preventivi.codice.cc/authorize.php
+0 212
+http://preventivi.codice.cc/preventivo/nodefield-clientefieldcliente10122016-1906
+0 1
+http://preventivi.codice.cc/cliente/michele-scamarra
+0 753
+http://preventivi.codice.cc/node/34/edit
+0 162
+http://preventivi.codice.cc/admin/structure/types/manage/page
+0 15
+http://preventivi.codice.cc/admin/structure/field-collections/field_articolo/display/full
+0 1
+http://preventivi.codice.cc/cliente/pippo-franco
+0 564
+http://preventivi.codice.cc/preventivo/michele-scamarra-14102016-1476435125
+0 32
+http://preventivi.codice.cc/sites/default/files/css/css__OfYR6nHfN8M1D36-1UqDpP5hbHLn7gVVBx3V2KpHks.css
+0 3
+http://preventivi.codice.cc/admin/structure/types
+0 84
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_nome
+0 9
+http://preventivi.codice.cc/sites/default/files/css/css_kUdon--KXV4hk_pmyRGfvpAwKKJ6-0JY7RIJW4yg_dE.css
+0 2
+http://preventivi.codice.cc/admin/structure/block/manage/system/user-menu/configure
+0 2
+http://preventivi.codice.cc/sites/default/files/css/css_jflvgLgO4vaS0LZmzPduGTgks0HtWkXmarCACLVmnck.css
+0 137
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/display
+0 197
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_prezzo/field-settings
+0 7
+http://preventivi.codice.cc/admin/structure/menu/manage/user-menu
+0 2
+http://preventivi.codice.cc/preventivo/francesco-dattolo-14102016-1476435371
+0 15
+http://preventivi.codice.cc/sites/all/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.css
+0 2
+http://preventivi.codice.cc/sites/all/libraries/yui/build/editor/assets/skins/sam/editor.css
+0 5
+http://preventivi.codice.cc/admin/reports/event/1041
+0 1
+http://preventivi.codice.cc/admin/structure/field-collections/field_articolo
+0 16
+http://preventivi.codice.cc/admin/config/content/ckeditor/edit/Full
+0 107
+http://preventivi.codice.cc/admin/structure/menu/manage/user-menu/edit
+0 1
+http://preventivi.codice.cc/modules/overlay/overlay-child.css
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente2/field-settings
+0 7
+http://preventivi.codice.cc/sites/all/libraries/yui/build/menu/assets/skins/sam/menu.css
+0 1
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_descrizione/delete
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo
+0 163
+http://preventivi.codice.cc/preventivo/10132016-0957
+0 13
+http://preventivi.codice.cc/sites/all/modules/adminimal_admin_menu/adminimal_admin_menu.css
+0 63
+http://preventivi.codice.cc/core/authorize.php
+0 27
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1541
+0 37
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1542
+0 37
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/comment/display
+0 1
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1308
+0 632
+http://preventivi.codice.cc/sites/all/themes/adminimal_theme/skins/material/material.css
+0 1
+http://preventivi.codice.cc/basic-page/dashboard
+0 32
+http://preventivi.codice.cc/admin/structure/menu/manage/main-menu/add
+0 12
+http://preventivi.codice.cc/preventivo/francesco-dattolo-18102016-1476804157
+0 332
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_total/widget-type
+0 1
+http://preventivi.codice.cc/admin/dashboard
+0 9
+http://preventivi.codice.cc/node/1/edit
+0 10
+http://preventivi.codice.cc/admin/config/system/actions/configure/JIi5RLlNDynoiVXqQptABj-TDd1DZTve7v7eJS4q6Ww
+0 2
+http://preventivi.codice.cc/print/14
+0 1
+http://preventivi.codice.cc/node/add/preventivo
+0 1363
+http://preventivi.codice.cc/print/preventivo/michele-scamarra-13102016-1476375363
+0 20
+http://preventivi.codice.cc/modules/toolbar/toolbar.css
+0 1
+http://preventivi.codice.cc/admin/structure/block/manage/block/2/delete
+0 3
+http://preventivi.codice.cc/print/21
+0 1
+http://preventivi.codice.cc/modules/shortcut/shortcut.css
+0 104
+http://preventivi.codice.cc/modules/filter/filter.css
+0 21
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields
+0 1325
+http://preventivi.codice.cc/print/27
+0 44
+http://preventivi.codice.cc/modules/system/system.base.css
+0 133
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale
+0 54
+http://preventivi.codice.cc/admin/index
+0 66
+http://preventivi.codice.cc/admin/config/regional/currency_locale_pattern
+0 7
+http://preventivi.codice.cc/print/30
+0 1
+http://preventivi.codice.cc/print/33
+0 82
+http://preventivi.codice.cc/modules/overlay/overlay-parent.css
+0 1
+http://preventivi.codice.cc/preventivi
+0 509
+http://preventivi.codice.cc/admin/structure/views/view/preventivicliente/edit
+0 104
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_codice/widget-type
+0 1
+http://preventivi.codice.cc/user/login
+0 41
+http://preventivi.codice.cc/admin/structure/views/view/preventivicliente
+0 19
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_articolo
+0 44
+http://preventivi.codice.cc/cliente/ernesto-spara-lesto
+0 1
+http://preventivi.codice.cc/admin/config/development/maintenance
+0 5
+http://preventivi.codice.cc/admin
+0 1
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_prezzo/widget-type
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/node.cliente.field_nome/storage
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente
+0 79
+http://preventivi.codice.cc/user/19/edit
+0 18
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_descrizione/field-settings
+0 9
+http://preventivi.codice.cc/sites/all/modules/admin_menu/admin_menu.css
+0 3
+http://preventivi.codice.cc/sites/all/themes/adminimal_theme/css/icons-config.css
+0 22
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale_iva/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/groups/group_articolo/delete/form
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_provincia
+0 2
+http://preventivi.codice.cc/node/14/edit
+0 9
+http://preventivi.codice.cc/admin/config/regional/language
+0 7
+http://preventivi.codice.cc/admin/structure/views/view/preventivi/edit/page
+0 11
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_ragione_sociale/edit
+0 2
+http://preventivi.codice.cc/install.php
+0 69
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_citt_/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_iva/delete
+0 4
+http://preventivi.codice.cc/admin/structure/trigger/user
+0 5
+http://preventivi.codice.cc/modules/system/system.theme.css
+0 61
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_descrizione
+0 7
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_quantit_
+0 8
+http://preventivi.codice.cc/node/31/delete
+0 2
+http://preventivi.codice.cc/admin/appearance/install
+0 3
+http://preventivi.codice.cc/admin/structure/menu/item/219/edit
+0 3
+http://preventivi.codice.cc/node/37/edit
+0 154
+http://preventivi.codice.cc/admin/structure/views/view/preventivi/delete
+0 3
+http://preventivi.codice.cc/user
+0 59
+http://preventivi.codice.cc/sites/default/files/css/css_pdyP7iP-Bw6ldDrFZC_1GCNKUYxLXjwFYaXHiCe8p-4.css
+0 2
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_descrizione
+0 25
+http://preventivi.codice.cc/themes/bartik/css/style.css
+0 34
+http://preventivi.codice.cc/users/operatore
+0 4
+http://preventivi.codice.cc/admin/structure/views
+0 73
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale/widget-type
+0 1
+http://preventivi.codice.cc/admin/appearance/settings/my_adminimal
+0 26
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo
+0 2
+http://preventivi.codice.cc/admin/config/user-interface/print
+0 13
+http://preventivi.codice.cc/node/10
+0 2
+http://preventivi.codice.cc/node/11
+0 3
+http://preventivi.codice.cc/node/12
+0 1
+http://preventivi.codice.cc/node/13
+0 36
+http://preventivi.codice.cc/node/14
+0 409
+http://preventivi.codice.cc/admin/modules/install
+0 84
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_prezzo/delete
+0 3
+http://preventivi.codice.cc/themes/seven/vertical-tabs.css
+0 22
+http://preventivi.codice.cc/admin/config/regional/settings
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_cognome
+0 4
+http://preventivi.codice.cc/admin/config/user-interface/print/common
+0 4
+http://preventivi.codice.cc/node/28
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/groups/group_articoli/delete/form
+0 4
+http://preventivi.codice.cc/admin/structure/menu/settings
+0 10
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_cognome/field-settings
+0 2
+http://preventivi.codice.cc/preventivo/pippo-franco-18102016-1476795761
+0 4
+http://preventivi.codice.cc/sites/all/themes/adminimal_theme/css/vertical-tabs.css
+0 4
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_ragione_sociale/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_sconto
+0 4
+http://preventivi.codice.cc/admin/config/content/wysiwyg
+0 193
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_telfono/field-settings
+0 2
+http://preventivi.codice.cc/field-collection/field-articolo/5/delete
+0 2
+http://preventivi.codice.cc/admin/config/user-interface/print/email
+0 6
+http://preventivi.codice.cc/preventivo/ernesto-spara-lesto-10122016-1910
+0 45
+http://preventivi.codice.cc/admin/config/content/wysiwyg/profile/filtered_html/delete
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_descrizione/field-settings
+0 2
+http://preventivi.codice.cc/admin/modules
+0 2490
+http://preventivi.codice.cc/sites/all/modules/references_dialog/css/references-dialog-admin.css
+0 38
+http://preventivi.codice.cc/admin/structure/menu/manage/menu--none-/add
+0 6
+http://preventivi.codice.cc/preventivo/pippo-franco-18102016-1476802796
+0 46
+http://preventivi.codice.cc/preventivo/francesco-dattolo-18102016-1476804603
+0 185
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_descrizione/delete
+0 2
+http://preventivi.codice.cc/admin/config/content/ckeditor/skinframe
+0 4
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/display
+0 21
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-20102016-1476974966
+0 48
+http://preventivi.codice.cc/admin/config/content/ckeditor/editg
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields
+0 136
+http://preventivi.codice.cc/admin/structure/views/view/clienti/edit
+0 36
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_codice/field-settings
+0 4
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/node.cliente.field_nome
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente/widget-type
+0 12
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente2/widget-type
+0 3
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-10132016-0959
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/body/delete
+0 2
+http://preventivi.codice.cc/admin/structure/menu/manage/menu--none-/edit
+0 13
+http://preventivi.codice.cc/admin/structure/block/manage/block/1/configure
+0 2
+http://preventivi.codice.cc/admin/config/content/ckeditor
+0 15
+http://preventivi.codice.cc/admin/help
+0 38
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_prezzo
+0 7
+http://preventivi.codice.cc/sites/all/modules/token/jquery.treeTable.css
+0 5
+http://preventivi.codice.cc/admin/structure/menu/manage/main-menu
+0 11
+http://preventivi.codice.cc/sites/default/files/css/css_TyWmkjOz1ibacRHDWvqqcAMUSeDjiTzBCeaxjnhYLzM.css
+0 1
+http://preventivi.codice.cc/admin/structure/views/view/preventivicliente/edit/block_1
+0 6
+http://preventivi.codice.cc/node/add/descrizione-articoli
+0 10
+http://preventivi.codice.cc/node/add
+0 7
+http://preventivi.codice.cc/admin/reports/views-plugins
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/node.cliente.field_cognome/storage
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_iva
+0 30
+http://preventivi.codice.cc/preventivo/francesco-dattolo-13102016-1476375103
+0 2
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_prezzo
+0 10
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_prezzo/field-settings
+0 2
+http://preventivi.codice.cc/sites/all/modules/adminimal_admin_menu/js/slicknav/slicknav.css
+0 13
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/display
+0 42
+http://preventivi.codice.cc/preventivo/michele-scamarra-13102016-1476375363
+0 306
+http://preventivi.codice.cc/sites/default/files/css/css_w_mWhMmhjee50wWZhOi8MXA5MgKsvV5z8nx96U3xhTg.css
+0 7
+http://preventivi.codice.cc/admin/config/system/actions/manage
+0 2
+http://preventivi.codice.cc/current-dateshortpreventivocurrent-dateshortcurrent-dateshort/nodefield-clienteoriginaltitle
+0 1
+http://preventivi.codice.cc/admin/people
+0 9
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-0959
+0 56
+http://preventivi.codice.cc/admin/structure/menu/manage/main-menu/list
+0 3
+http://preventivi.codice.cc/preventivo/10132016-0957-0
+0 3
+http://preventivi.codice.cc/references-dialog/redirect/10/node
+0 1
+http://preventivi.codice.cc/admin/config/content/token_insert
+0 12
+http://preventivi.codice.cc/node/22/edit
+0 13
+http://preventivi.codice.cc/admin/config/regional/translate
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente2/delete
+0 4
+http://preventivi.codice.cc/admin/config/user-interface/print/ui
+0 10
+http://preventivi.codice.cc/admin/structure/types/manage/cliente
+0 111
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_nome/field-settings
+0 3
+http://preventivi.codice.cc/sites/default/files/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css
+0 16
+http://preventivi.codice.cc/admin/structure/views/view/preventivi
+0 30
+http://preventivi.codice.cc/references-dialog/redirect/28/node
+0 1
+http://preventivi.codice.cc/admin/structure
+0 5
+http://preventivi.codice.cc/core/themes/seven/css/theme/install-page.css
+0 1
+http://preventivi.codice.cc/admin/config/search/path
+0 4
+http://preventivi.codice.cc/print/preventivo/michele-scamarra-14102016-1476429018
+0 1
+http://preventivi.codice.cc/admin/config/system/actions
+0 5
+http://preventivi.codice.cc/admin/people/permissions/roles
+0 13
+http://preventivi.codice.cc/admin/config/content/formats
+0 4
+http://preventivi.codice.cc/preventivo/francesco-dattolo10122016-1909
+0 1
+http://preventivi.codice.cc/admin/people/permissions
+0 48
+http://preventivi.codice.cc/themes/seven/jquery.ui.theme.css
+0 2
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-10132016-1638
+0 793
+http://preventivi.codice.cc/field-collection/field-articolo/2/delete
+0 2
+http://preventivi.codice.cc/update.php
+0 45
+http://preventivi.codice.cc/admin/structure/trigger/node
+0 1
+http://preventivi.codice.cc/sites/all/themes/adminimal_theme/css/jquery.ui.theme.css
+0 28
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_codice/delete
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_cf_p_iva/field-settings
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_articolo/delete
+0 4
+http://preventivi.codice.cc/sites/default/files/css/css_ggG3l22CAyYW4h4nIGfPquF5TQW-xUSBRg3xBg8YGQY.css
+0 16
+http://preventivi.codice.cc/admin/structure/block/manage/block/1/delete
+0 2
+http://preventivi.codice.cc/
+0 1102
+http://preventivi.codice.cc/admin/config
+0 9
+http://preventivi.codice.cc/node/23/edit
+0 815
+http://preventivi.codice.cc/admin/config/regional/language/add
+0 3
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/form-display
+0 47
+http://preventivi.codice.cc/admin/structure/block
+0 220
+http://preventivi.codice.cc/admin/config/user-interface/print/pdf/dompdf
+0 8
+http://preventivi.codice.cc/admin/config/user-interface/print/pdf/tcpdf
+0 4
+http://preventivi.codice.cc/modules/system/system.admin.css
+0 12
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1638
+0 688
+http://preventivi.codice.cc/core/install.php
+0 199
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_articolo/widget-type
+0 12
+http://preventivi.codice.cc/admin/structure/computed_field_recompute
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente2
+0 18
+http://preventivi.codice.cc/admin/structure/views/view/clienti/edit/page
+0 11
+http://preventivi.codice.cc/admin/structure/block/manage/system/main-menu/configure
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_ragione_sociale/delete
+0 2
+http://preventivi.codice.cc/sites/default/files/css/css_5DjjYKM1zyRcMEqFcd4hG3ZYwvRNqqmkk2QMLzlgzdk.css
+0 2
+http://preventivi.codice.cc/modules/system/system.messages.css
+0 20
+http://preventivi.codice.cc/admin/structure/menu/item/535/edit
+0 6
+http://preventivi.codice.cc/printmail/33
+0 4
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1418
+0 669
+http://preventivi.codice.cc/printpdf/33
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/cliente/fields/field_citt_
+0 2
+http://preventivi.codice.cc/admin/config/system/site-information
+0 4
+http://preventivi.codice.cc/admin/config/search/path/settings
+0 1
+http://preventivi.codice.cc/admin/structure/views/settings
+0 4
+http://preventivi.codice.cc/print/preventivo/francesco-dattolo-20102016-1476976327
+0 2
+http://preventivi.codice.cc/admin/structure/menu/item/540/edit
+0 1
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_totale/field-settings
+0 8
+http://preventivi.codice.cc/admin/update/ready
+0 6
+http://preventivi.codice.cc/admin/config/search/metatag
+0 1
+http://preventivi.codice.cc/admin/people/create
+0 2
+http://preventivi.codice.cc/admin/structure/views/view/preventivi/edit
+0 89
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476974966
+0 313
+http://preventivi.codice.cc/preventivo/francesco-dattolo-20102016-1476975818
+0 842
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/field_cliente/delete
+0 8
+http://preventivi.codice.cc/admin/reports/updates/update
+0 8
+http://preventivi.codice.cc/core/assets/vendor/ckeditor/skins/moono/editor.css
+0 1
+http://preventivi.codice.cc/config/content/exclude-node-title
+0 5
+http://preventivi.codice.cc/preventivo/francesco-dattolo-10132016-1209
+0 463
+http://preventivi.codice.cc/admin/structure/field-collections
+0 42
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/display/full
+0 1
+http://preventivi.codice.cc/admin/appearance/settings/adminimal
+0 23
+http://preventivi.codice.cc/admin/reports
+0 2
+http://preventivi.codice.cc/node/add/article
+0 5
+http://preventivi.codice.cc/references-dialog/redirect/35/node
+0 1
+http://preventivi.codice.cc/admin/structure/views/view/archive/clone
+0 2
+http://preventivi.codice.cc/admin/structure/views/add
+0 4
+http://preventivi.codice.cc/sites/all/modules/admin_menu/admin_menu.uid1.css
+0 2
+http://preventivi.codice.cc/admin/structure/types/manage/preventivo/fields/body/delete
+0 2
+http://preventivi.codice.cc/admin/structure/block/manage/views/preventivicliente-block_1/configure
+0 19
+http://preventivi.codice.cc/preventivo/preventivo
+0 1
+http://preventivi.codice.cc/batch
+0 65
+http://preventivi.codice.cc/printpdf/basic-page/dashboard
+0 1
+http://preventivi.codice.cc/admin/structure/field-collections/field-articolo/fields/field_sconto/field-settings
+0 2
+http://preventivi.codice.cc/sites/default/files/css/css_RHKBek9BwmbF882IpJbVa3r3fPoQoQxUw7ukcu68H30.css
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 812
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36
+0 209
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 27268
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

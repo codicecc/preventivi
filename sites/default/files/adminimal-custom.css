@@ -1,0 +1,13 @@
+.field-name-field-articolo .field{float:left;margin:0 2%}
+.field-name-field-codice{width:5%;}
+.field-name-field-descrizione{width:65%;}
+.field-name-field-prezzo{width:5%;}
+body.adminimal-skin-material fieldset {padding-top: 15px;}
+.item-list.view1 ul.action-links li {float: none;}
+.item-list.view1 ul li, li.leaf, ul.menu li {list-style-type: none;}
+.block-menu h2 {margin: 1.2rem 0.8rem 0.3rem;}
+#block-menu-menu-none- ul.menu li{border: 1px solid #999;width: 10rem;padding: 0.4rem;margin: 0.3rem 0;text-align: center;background: seashell;}
+.field-name-field-total p{margin:0;}
+.field-name-field-totale-iva,
+.field-name-field-total{margin-left:85%;}
+
