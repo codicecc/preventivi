@@ -83,26 +83,6 @@ $nodeid = 0;
 $nodeid = $variables['node']->nid;
 
 if($nodeid>0){
-
-	$a_valid_field=array("field_nome","field_cognome","field_ragione_sociale",
-		"field_citt_",
-		"field_provincia",
-		"field_telfono",
-		"field_cf_p_iva",
-		"field_indirizzo",
-		"",
-		);
-	$arr_cliente=array();
-	foreach($node->field_cliente["und"][0] as $l => $v){
-		if($l=="entity"){
-			foreach($v as $ll => $vv){
-				if(in_array($ll,$a_valid_field)){
-					array_push($arr_cliente,array($ll,$vv["und"][0]["value"]));
-				}
-			}
-		}
-	}
-	
 	$node = node_load($nodeid);
 	$collection="field_articolo";
 	foreach($node->{$collection}[LANGUAGE_NONE] as $collectionItem) {
@@ -173,48 +153,6 @@ $entity_field[0]['value'] = number_format($tot, 2, '.', '');
     <div class="print-content"><?php print $content; ?>
     <div class="print-content-totale"><strong>Totale: <?php echo number_format(($tot), 2, '.', '');?> €</strong></div>
     <div class="print-content-totale"><strong>Totale + IVA: <?php echo number_format(($tot*1.22), 2, '.', '');;?> €</strong></div>
-    <hr style="border-top: 1px solid #8c8b8b;">
-    <div class="cliente">
-    <div class="value0"><strong>Informazioni Cliente</strong></div>
-    <?php if(!empty($arr_cliente[0][1])): ?>
-    <div class="label0" style="float:left;">Nome: </div>
-    <div class="value0"><?php echo $arr_cliente[0][1];?></div>
-    <?php endif;?>
-    <?php if(!empty($arr_cliente[1][1])): ?>
-    <div class="label0" style="float:left;">Cognome: </div>
-    <div class="value0"><?php echo $arr_cliente[1][1];?></div>
-    <?php endif;?>
-
-    <?php if(!empty($arr_cliente[2][1])): ?>
-    <div class="label0" style="float:left;">Ragione Sociale: </div>
-    <div class="value0"><?php echo $arr_cliente[2][1];?></div>
-    <?php endif;?>
-
-    <?php if(!empty($arr_cliente[7][1])): ?>
-    <div class="label0" style="float:left;">Indirizzo: </div>
-    <div class="value0"><?php echo $arr_cliente[7][1];?></div>
-    <?php endif;?>
-
-    <?php if(!empty($arr_cliente[3][1])): ?>
-    <div class="label0" style="float:left;">Città: </div>
-    <div class="value0"><?php echo $arr_cliente[3][1];?></div>
-    <?php endif;?>
-    
-    <?php if(!empty($arr_cliente[4][1])): ?>
-    <div class="label0" style="float:left;">Provincia: </div>
-    <div class="value0"><?php echo $arr_cliente[4][1];?></div>
-    <?php endif;?>
-    
-    <?php if(!empty($arr_cliente[5][1])): ?>
-    <div class="label0" style="float:left;">Telefono: </div>
-    <div class="value0"><?php echo $arr_cliente[5][1];?></div>
-    <?php endif;?>
-    
-    <?php if(!empty($arr_cliente[6][1])): ?>
-    <div class="label0" style="float:left;">C.F. / P.IVA: </div>
-    <div class="value0"><?php echo $arr_cliente[6][1];?></div>
-    <?php endif;?>
-        
     </div>
     <div class="print-footer"><?php print theme('print_footer'); ?>
     <br />
